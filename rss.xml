@@ -4,7 +4,7 @@
         <description><![CDATA[GraceWorship]]></description>
         <link>https://thegrid.ai/graceworship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Oct 2015 05:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2015 05:24:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graceworship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Worship Series // Spring 2015]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/graceworship/the-story/index.html</link>
             <guid isPermaLink="false">2db0bb78-d29d-4b26-ac6e-167ee305afd8</guid>
             <pubDate>Sat, 17 Oct 2015 05:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Enjoying great music with @matthewsmithUS at Grace this evening. pic.twitter.com/N3WDjEWKpE</p>]]></description>
+            <link>https://twitter.com/graceworship/status/647933984228380672</link>
+            <guid isPermaLink="false">f6bdb484-f95f-4b14-9b7f-87d049b1ec17</guid>
+            <pubDate>Sat, 17 Oct 2015 05:23:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/graceworship/status/654427738854555648</link>
             <guid isPermaLink="false">e2e268bc-5dcb-4b0d-8917-3a3cfc36573d</guid>
             <pubDate>Sat, 17 Oct 2015 02:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom, singing psalms and hymns and spiritual songs, with thankfulness in your hearts to God.</p>]]></description>
-            <link>https://thegrid.ai/graceworship/a80c5f5d-1e1e-4d22-b5d2-af8868cf2a93/index.html</link>
-            <guid isPermaLink="false">a80c5f5d-1e1e-4d22-b5d2-af8868cf2a93</guid>
-            <pubDate>Sat, 17 Oct 2015 02:17:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
