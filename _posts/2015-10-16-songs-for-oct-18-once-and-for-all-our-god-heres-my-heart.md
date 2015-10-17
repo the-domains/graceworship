@@ -40,12 +40,12 @@ description: "Songs for Oct 18: Once And For All, Our God, Here's My Heart, The 
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/graceworship/status/654427738854555648'
-datePublished: '2015-10-17T01:55:19.820Z'
+datePublished: '2015-10-17T02:19:29.952Z'
 title: ''
-dateModified: '2015-10-17T01:39:32.220Z'
+dateModified: '2015-10-17T02:07:36.724Z'
 sourcePath: _posts/2015-10-16-songs-for-oct-18-once-and-for-all-our-god-heres-my-heart.md
 published: true
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
