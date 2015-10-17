@@ -1,7 +1,7 @@
-name: null
+name: GraceWorship
 favicon: null
-layout_spectrum: 0.20311456522904336
-typography_spectrum: 0.8470125107560307
+layout_spectrum: 0
+typography_spectrum: 0.23444
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.19133578310720623
-  lightness: 0.059949035523459315
-  saturation: 0.8552365743089467
+  brandColors:
+    - '#ffffff'
+    - '#3c2d18'
+    - '#026536'
+    - '#8cc63e'
+    - '#959088'
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.5
   rhythmicContrast: 0.36776088061742485
 purpose: []
