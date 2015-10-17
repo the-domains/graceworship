@@ -4,7 +4,7 @@
         <description><![CDATA[GraceWorship]]></description>
         <link>https://thegrid.ai/graceworship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Oct 2015 05:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2015 05:26:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graceworship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Worship Series // Spring 2015]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/graceworship/the-story/index.html</link>
             <guid isPermaLink="false">2db0bb78-d29d-4b26-ac6e-167ee305afd8</guid>
             <pubDate>Sat, 17 Oct 2015 05:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="BIGpicnic&excl;&excl;&excl;&excl;" src="https://pbs.twimg.com/media/COQQhvEUcAEuXO-.jpg:large">]]></description>
+            <link>https://twitter.com/graceworship/status/640655226697945088</link>
+            <guid isPermaLink="false">7ad173ed-5b47-4399-96e0-fefb180a9efd</guid>
+            <pubDate>Sat, 17 Oct 2015 05:25:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>urn:uuid:b174d32d-8d3a-4508-a01b-2577b72eb94a</link>
             <guid isPermaLink="false">1ca8103e-5081-4619-94a7-86773a9fa4e1</guid>
             <pubDate>Sat, 17 Oct 2015 04:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Songs for Oct 18: Once And For All, Our God, Here's My Heart, The Rock Won't Move #graceb3 #gospelofjohn</p>]]></description>
-            <link>https://twitter.com/graceworship/status/654427738854555648</link>
-            <guid isPermaLink="false">e2e268bc-5dcb-4b0d-8917-3a3cfc36573d</guid>
-            <pubDate>Sat, 17 Oct 2015 02:19:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
