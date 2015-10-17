@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-17T04:31:19.702Z'
-dateModified: '2015-10-17T04:31:07.973Z'
+datePublished: '2015-10-17T19:56:06.970Z'
+dateModified: '2015-10-17T19:56:03.947Z'
 author: []
 title: Grace Community Church
+sourcePath: _posts/2015-10-17-grace-community-church.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2015-10-17-grace-community-church.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
