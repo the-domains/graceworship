@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:02e91a70-45f9-40ce-a4f7-16fe2697cd2d'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-17T05:27:42.744Z'
-dateModified: '2015-10-17T05:27:35.206Z'
+datePublished: '2015-10-17T19:49:33.293Z'
+dateModified: '2015-10-17T19:49:27.673Z'
 author: []
 title: Worship Series // Spring 2015
 sourcePath: _posts/2015-10-17-worship-series-spring-2015.md
