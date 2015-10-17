@@ -33,16 +33,16 @@ keywords:
   - grace
   - bigpicnic
   - 1100a
-  - frfrv0rb1g
+  - y0351dzs6w
   - copying
   - hiccup
-description: 'BIGpicnic!!!!'
+description: 'BIGpicnic!!!'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/graceworship/status/640655226697945088'
-datePublished: '2015-10-17T05:25:29.982Z'
+isBasedOnUrl: 'https://twitter.com/graceworship/status/640663352507633665'
+datePublished: '2015-10-17T05:25:30.284Z'
 title: ''
-dateModified: '2015-10-17T05:24:36.676Z'
+dateModified: '2015-10-17T05:24:25.196Z'
 sourcePath: _posts/2015-10-17-bigpicnic.md
 published: true
 inFeed: true
@@ -52,4 +52,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![BIGpicnic&excl;&excl;&excl;&excl;](https://pbs.twimg.com/media/COQQhvEUcAEuXO-.jpg:large)
+![BIGpicnic&excl;&excl;&excl;](https://pbs.twimg.com/media/COQX7LKUwAAN6j5.jpg:large)
