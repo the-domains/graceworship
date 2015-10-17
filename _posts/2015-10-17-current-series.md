@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:ed3bfcec-33e0-40a3-a063-4ac3970438d2'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-17T05:31:55.552Z'
-dateModified: '2015-10-17T05:31:53.977Z'
+datePublished: '2015-10-17T19:55:02.253Z'
+dateModified: '2015-10-17T19:49:26.208Z'
 author: []
 title: Current Series
 sourcePath: _posts/2015-10-17-current-series.md
