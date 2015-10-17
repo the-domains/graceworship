@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-17T05:21:43.159Z'
-dateModified: '2015-10-17T05:21:37.652Z'
+datePublished: '2015-10-17T05:27:42.744Z'
+dateModified: '2015-10-17T05:27:35.206Z'
 author: []
 title: Worship Series // Spring 2015
 sourcePath: _posts/2015-10-17-worship-series-spring-2015.md
@@ -25,4 +25,7 @@ _type: Article
 ---
 # Worship Series // Spring 2015
 
-In the Spring of 2015, our pastors preached a 4-week mini-series on worship. Click here to watch the messages. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/329a5550-df2f-4397-8624-7cb98349cb96.png)
+In the Spring of 2015, our pastors preached a 4-week mini-series on worship. Click [here][0] to watch the messages. null
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/329a5550-df2f-4397-8624-7cb98349cb96.png)
+
+[0]: http://www.graceb3.org/resources/sermons/life-as-worship/
