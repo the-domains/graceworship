@@ -4,7 +4,7 @@
         <description><![CDATA[GraceWorship]]></description>
         <link>https://thegrid.ai/graceworship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Oct 2015 05:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2015 05:26:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graceworship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Worship Series // Spring 2015]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/graceworship/the-story/index.html</link>
             <guid isPermaLink="false">2db0bb78-d29d-4b26-ac6e-167ee305afd8</guid>
             <pubDate>Sat, 17 Oct 2015 05:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Songs for Sept 20: Made Alive - Citizens / Desert Song - Hillsong / Rock Won't Move - Vertical Church / It Is Finished - Dustin Kensrue</p>]]></description>
+            <link>https://twitter.com/graceworship/status/645435652054499328</link>
+            <guid isPermaLink="false">b1fd000a-6e8e-44dd-be3c-5dd85c154783</guid>
+            <pubDate>Sat, 17 Oct 2015 05:25:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/67979557-ee29-4064-ac55-a5176c0dcaa0.png</link>
             <guid isPermaLink="false">10adb4a5-4f3f-4bda-bb0f-3481dbff8372</guid>
             <pubDate>Sat, 17 Oct 2015 04:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grace Community Church]]></title>
-            <description><![CDATA[<article><h1>Grace Community Church</h1><p>Reaching Greater Iowa City</p><img src="http://www.graceb3.org/wp-content/uploads/2015/10/Haiti1015_gallery.jpg"></article>]]></description>
-            <link>urn:uuid:b174d32d-8d3a-4508-a01b-2577b72eb94a</link>
-            <guid isPermaLink="false">1ca8103e-5081-4619-94a7-86773a9fa4e1</guid>
-            <pubDate>Sat, 17 Oct 2015 04:31:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
