@@ -4,7 +4,7 @@
         <description><![CDATA[GraceWorship]]></description>
         <link>https://thegrid.ai/graceworship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Oct 2015 05:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2015 05:27:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graceworship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Worship Series // Spring 2015]]></title>
@@ -68,13 +68,6 @@
             <link>https://thegrid.ai/graceworship/current-series/index.html</link>
             <guid isPermaLink="false">74b45c66-2026-4ed3-917e-a9f7b879696f</guid>
             <pubDate>Sat, 17 Oct 2015 05:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grace's new building!]]></title>
-            <description><![CDATA[<h1>Grace's new building!</h1>]]></description>
-            <link>https://thegrid.ai/graceworship/graces-new-building/index.html</link>
-            <guid isPermaLink="false">43898ec3-4ba8-438d-a022-ddc44399be84</guid>
-            <pubDate>Sat, 17 Oct 2015 05:16:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
