@@ -1,9 +1,7 @@
-favicon: null
 name: GraceWorship
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2473118
+typography_spectrum: 0.96
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 1
-  rhythmicContrast: 0.3677608806174248
   brandColors:
     - '#ffffff'
     - '#3c2d18'
     - '#026536'
     - '#8cc63e'
     - '#959088'
+  brandStrength: 1
   lightness: 0.625
-typography_spectrum: 0.35054
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.2473118
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.5
+  rhythmicContrast: 0.3677608806174248
+purpose: []
