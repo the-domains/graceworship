@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-19T02:02:20.924Z'
-dateModified: '2015-10-19T02:02:17.354Z'
+datePublished: '2015-10-19T02:26:31.303Z'
+dateModified: '2015-10-19T02:26:26.902Z'
 author: []
 title: Current Series
 sourcePath: _posts/2015-10-17-current-series.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # Current Series
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f553c098-10f5-495b-8df9-b96f231fe4a7.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1744414c-d088-4e3b-a82e-c8181d378702.png)
