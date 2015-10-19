@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'urn:uuid:b174d32d-8d3a-4508-a01b-2577b72eb94a'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-17T19:56:06.970Z'
-dateModified: '2015-10-17T19:56:03.947Z'
+datePublished: '2015-10-19T02:03:36.761Z'
+dateModified: '2015-10-19T02:03:24.958Z'
 author: []
 title: Grace Community Church
 sourcePath: _posts/2015-10-17-grace-community-church.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: grace-community-church/index.html
 _context: 'http://schema.org'
 _type: Article
 
