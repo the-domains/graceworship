@@ -6,23 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-16T05:30:45.823Z'
-dateModified: '2015-11-16T05:28:46.717Z'
-title: Recent Newsletters
+datePublished: '2015-11-23T21:34:44.387Z'
+dateModified: '2015-11-23T21:34:41.278Z'
+title: News
+sourcePath: _posts/2015-11-16-recent-newsletters.md
+published: true
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-16-recent-newsletters.md
-published: true
 url: recent-newsletters/index.html
 _type: WebPage
 
 ---
-# Recent Newsletters
-null
-null
+# News
 
-November 2015October 2015
+* November 2015
+* [October 2015][0]
+
+[0]: https://thegrid.ai/graceworship/blog/
