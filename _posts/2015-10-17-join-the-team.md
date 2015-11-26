@@ -6,11 +6,12 @@ inLanguage: null
 starred: true
 keywords: []
 description: How do I get involved in Music Ministry?
-datePublished: '2015-11-09T17:47:37.524Z'
-dateModified: '2015-11-09T17:47:34.920Z'
+datePublished: '2015-11-26T05:23:05.567Z'
+dateModified: '2015-11-26T05:22:59.314Z'
 title: CAN I JOIN THE TEAM?
 sourcePath: _posts/2015-10-17-join-the-team.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -21,6 +22,10 @@ url: join-the-team/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f78a67-73b8-4fef-86b5-bbd7fc34ee17.jpg)
+
+# 
+
 # CAN I JOIN THE TEAM?
 
 If you have ever wondered what steps are required to be part of the Grace Praise Teams, you've come to the right place. 
