@@ -1,8 +1,7 @@
-layout_spectrum: 0.1451613
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: GraceWorship
+favicon: null
+layout_spectrum: 0.75125
+typography_spectrum: 0.83055
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 1
-  rhythmicContrast: 0.25
   brandColors:
     - '#ffffff'
     - '#3c2d18'
     - '#026536'
     - '#8cc63e'
     - '#959088'
-  lightness: 0.8125
-typography_spectrum: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: GraceWorship
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.5625
+  rhythmicContrast: 1
+purpose: []
