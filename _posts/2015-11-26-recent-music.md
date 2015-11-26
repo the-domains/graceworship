@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-26T05:58:19.364Z'
-dateModified: '2015-11-26T05:55:40.107Z'
+description: "Sunday by Sunday list of songs we've been singing at Grace"
+datePublished: '2015-11-26T06:34:58.719Z'
+dateModified: '2015-11-26T06:34:45.761Z'
 title: Recent Music
 author: []
 authors: []
@@ -22,28 +22,48 @@ url: recent-music/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c448308-c92c-4bca-841d-26f628509ae4.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e8d5220-ead7-4d19-bec4-17984d535237.png)
 
 # Recent Music
 
-**NOVEMBER 22**Leader: Zack Stanton
+> **NOVEMBER 22**-[WATCH][0]
+> 
+> Leader: Zack Stanton
+> 
+> JESUS, SON OF GOD - CHRIS TOMLIN
+> 
+> O PRAISE THE NAME (ANASTASIS) - HILLSONG
+> 
+> LEAD ME TO THE CROSS - HILLSONG
+> 
+> HOW DEEP THE FATHER'S LOVE - STUART TOWNEND
 
-How Deep The Father's Love
+> **November 15**-[WATCH][1]
+> 
+> Leader: Rodney Gehman
+> 
+> ALL I HAVE IS CHRIST - SOVEREIGN GRACE
+> 
+> THIS IS AMAZING GRACE - PHIL WICKHAM
+> 
+> O PRAISE THE NAME (ANASTASIS) - HILLSONG
+> 
+> HERE'S MY HEART - CROWDER
 
-Lead Me To The Cross
+> **NOVEMBER 8**-[WATCH][2]
+> 
+> Leader: Mark Visser
+> 
+> GLORIFIED - JARED ANDERSON
+> 
+> LEAD ME TO THE CROSS - HILLSONG
+> 
+> JESUS MESSIAH - CHRIS TOMLIN
+> 
+> 
 
-O Praise The Name (Anastasis)
 
-Jesus, Son of God
 
-November 15Leader: Rodney Gehman
-
-All I Have Is Christ
-
-This Is Amazing Grace
-
-O Praise The Name (Anastasis)
-
-Here's My Heart
-
-a
+[0]: https://www.youtube.com/watch?v=VNDYFn9Cbgg&index=1&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4
+[1]: https://www.youtube.com/watch?v=T1pFDldcGaM&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4&index=2
+[2]: https://www.youtube.com/watch?v=v1Zpv5-g2NQ&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4&index=3
