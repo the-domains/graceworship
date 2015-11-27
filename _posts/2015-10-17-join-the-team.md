@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How do I get involved in Music Ministry?
-datePublished: '2015-11-26T05:46:59.456Z'
-dateModified: '2015-11-26T05:46:48.937Z'
+datePublished: '2015-11-27T05:02:49.644Z'
+dateModified: '2015-11-27T05:02:44.245Z'
 title: CAN I JOIN THE TEAM?
 sourcePath: _posts/2015-10-17-join-the-team.md
 published: true
@@ -41,6 +41,6 @@ _type: Article
 2\.  Must be committed to Grace Community Church as your church home. We need to love the church we lead. This is evidenced by:
 
 * Attending consistently for at least 6-10 months before you audition. The church needs to know you're a servant before it knows you're a musician. 
-* Starting the membership process. You've already attended Getting To Know Grace, and that's a great first step! The next membership classes are coming near the end of January.  It's not about you or your gifts.
+* Starting the membership process. You've already attended Getting To Know Grace, and that's a great first step! The next membership classes are coming near the end of January.  
 * Serving somewhere other than the stage for 6 months. _The Sunday morning coffee team, ushers, and the children's ministry are always needing volunteers.._
 * Active participation in a House Church or biblical community. People need to see you picking up trash, setting the table, praying for the meal, etc. ****
