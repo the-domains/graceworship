@@ -1,6 +1,6 @@
 name: GraceWorship
 favicon: null
-layout_spectrum: 0.25376
+layout_spectrum: 0.24958
 typography_spectrum: 0.90818
 collections:
   - index:
@@ -35,6 +35,6 @@ color:
     - '#959088'
   brandStrength: 1
   lightness: 0.75
-  saturation: 0.5625
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
