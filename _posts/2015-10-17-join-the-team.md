@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: How do I get involved in Music Ministry?
-datePublished: '2015-11-27T05:18:54.444Z'
-dateModified: '2015-11-27T05:18:51.187Z'
-title: CAN I JOIN THE TEAM?
+datePublished: '2015-11-27T05:21:39.428Z'
+dateModified: '2015-11-27T05:21:35.892Z'
+title: JOIN
 sourcePath: _posts/2015-10-17-join-the-team.md
 published: true
 author: []
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f78a67-73b8-4fef-86b5-bbd7fc34ee17.jpg)
 
-# CAN I JOIN THE TEAM?
+# JOIN
 
 > We are on the look out for musicians, vocalists, or technical gurus, that love Jesus and have a passion for serving Grace Community Church.  If that description fits you, then we want to meet you! 
 
