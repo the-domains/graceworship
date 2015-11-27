@@ -4,8 +4,15 @@
         <description><![CDATA[GraceWorship]]></description>
         <link>https://thegrid.ai/graceworship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Nov 2015 05:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2015 05:31:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graceworship/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why So Loud?]]></title>
+            <description><![CDATA[<article><h1>Why So Loud?</h1><p>From time to time, people come up to me and they say, "Why does the music have to be so loud?"  I'll assure you that I take every one of these questions seriously.  None of us on the team are looking to blow anyone's eardrums out, so if someone is brave enough to ask, we are too.  We always turn around and ask a few other people (non-staff, non-musical) and get a second opinion. If they agree, we turn it down. If they say it's fine, we get a third. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/154bb095-ef7f-4788-badc-a3b8337a43e5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/graceworship/why-so-loud/index.html</link>
+            <guid isPermaLink="false">31447dea-8e54-4042-abea-79e3fc4374b7</guid>
+            <pubDate>Fri, 27 Nov 2015 05:31:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Recent Setlists]]></title>
             <description><![CDATA[<article><h1>Recent Setlists</h1><p>If you ever walked away from Sunday morning gatherings and wondered, "What was the name of that second song?" or wanted to know how to find the songs we sing at Grace, you've come to the right place. I'll try to keep the lists here as updated as possible. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dac6da0b-14e9-4870-996b-0144b199c170.png"></article>]]></description>
@@ -21,11 +28,11 @@
             <pubDate>Thu, 26 Nov 2015 06:22:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CAN I JOIN THE TEAM?]]></title>
-            <description><![CDATA[<article><h1>CAN I JOIN THE TEAM?</h1><p>How do I get involved in Music Ministry?</p></article>]]></description>
+            <title><![CDATA[JOIN]]></title>
+            <description><![CDATA[<article><h1>JOIN</h1><p>How do I get involved in Music Ministry?</p></article>]]></description>
             <link>https://thegrid.ai/graceworship/join-the-team/index.html</link>
             <guid isPermaLink="false">b06d0b40-7a37-4af9-b3fd-66b31cf5b6cb</guid>
-            <pubDate>Fri, 27 Nov 2015 05:18:54 GMT</pubDate>
+            <pubDate>Fri, 27 Nov 2015 05:21:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
