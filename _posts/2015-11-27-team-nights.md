@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T06:07:55.038Z'
-dateModified: '2015-11-27T06:07:43.671Z'
+datePublished: '2015-11-27T06:37:08.990Z'
+dateModified: '2015-11-27T06:37:05.654Z'
 title: Team Nights
 author: []
+sourcePath: _posts/2015-11-27-team-nights.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-27-team-nights.md
-published: true
 url: team-nights/index.html
 _type: Article
 
