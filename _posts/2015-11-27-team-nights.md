@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-27T06:51:19.867Z'
-dateModified: '2015-11-27T06:51:14.306Z'
+datePublished: '2015-11-28T00:55:30.616Z'
+dateModified: '2015-11-28T00:55:25.936Z'
 title: Team Nights
 author: []
 sourcePath: _posts/2015-11-27-team-nights.md
