@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How do I get involved in Music Ministry?
-datePublished: '2015-11-27T06:33:19.488Z'
-dateModified: '2015-11-27T06:33:14.448Z'
+datePublished: '2015-11-28T01:17:09.471Z'
+dateModified: '2015-11-28T01:17:04.581Z'
 title: JOIN
 sourcePath: _posts/2015-10-17-join-the-team.md
 published: true
@@ -24,11 +24,13 @@ _type: Article
 ---
 # JOIN
 
-> We are on the look out for musicians, vocalists, or technical gurus, that love Jesus and have a passion for serving Grace Community Church.  If that description fits you, then we want to meet you! 
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c4796d4-5018-445b-9c6f-8d3f99647582.jpg)
+> We are always on the look out for musicians, vocalists, or technical gurus, that love Jesus and have a passion for serving Grace Community Church.  If that description fits you, then we want to meet you! 
 
 ****
+
+****
+
+********
 
 **Here are the basics for being part of the Praise Teams: **
 
@@ -44,3 +46,4 @@ _type: Article
 * Starting the membership process. You've already attended Getting To Know Grace, and that's a great first step! The next membership classes are coming near the end of January.  
 * Serving somewhere other than the stage for 6 months. _The Sunday morning coffee team, ushers, and the children's ministry are always needing volunteers.._
 * Active participation in a House Church or biblical community. People need to see you picking up trash, setting the table, praying for the meal, etc. ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/496d7099-9752-42f4-b02b-10a522592b92.jpg)
