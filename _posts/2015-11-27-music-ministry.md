@@ -2,23 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-28T01:02:27.571Z'
-dateModified: '2015-11-28T01:02:24.739Z'
+datePublished: '2015-11-28T01:10:46.638Z'
+dateModified: '2015-11-28T01:10:42.778Z'
 title: MUSIC MINISTRY
 author: []
+sourcePath: _posts/2015-11-27-music-ministry.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-27-music-ministry.md
-published: true
 _type: Blurb
 
 ---
