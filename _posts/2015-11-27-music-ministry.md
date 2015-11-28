@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-27T06:54:52.652Z'
-dateModified: '2015-11-27T06:54:41.426Z'
+datePublished: '2015-11-28T01:02:27.571Z'
+dateModified: '2015-11-28T01:02:24.739Z'
 title: MUSIC MINISTRY
 author: []
 authors: []
