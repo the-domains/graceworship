@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: How do I get involved in Music Ministry?
-datePublished: '2015-12-17T03:01:07.091Z'
-dateModified: '2015-12-17T03:01:03.560Z'
+datePublished: '2015-12-17T03:10:08.881Z'
+dateModified: '2015-12-17T03:10:07.573Z'
 title: JOIN
 sourcePath: _posts/2015-10-17-join-the-team.md
 published: true
@@ -22,7 +22,7 @@ url: join-the-team/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/590a7c56-97f6-479e-83c1-da5a28b27114.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfb06f9061239d040f5de81d2ee800eef12c132c.jpg)
 
 # JOIN
 
