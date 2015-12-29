@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: How do I get involved in Music Ministry?
-datePublished: '2015-12-17T04:40:10.216Z'
-dateModified: '2015-12-17T04:40:02.702Z'
-title: JOIN
+datePublished: '2015-12-29T20:54:08.911Z'
+dateModified: '2015-12-29T20:54:05.763Z'
+title: Join
 sourcePath: _posts/2015-10-17-join-the-team.md
 published: true
 author: []
@@ -22,8 +22,8 @@ url: join-the-team/index.html
 _type: WebPage
 
 ---
-# JOIN
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c77696df-03c6-4608-98cd-ee4cc7acb195.jpg)
+# Join
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5974284232f72b1d3ff5a7ea33c0fdeafcc78f4.jpg)
 
 If you're interested in being part of the Praise Team here at Grace, it's a fairly simple process.
 
