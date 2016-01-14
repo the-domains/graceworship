@@ -1,4 +1,4 @@
-<!DOCTYPE HTML><html class="exporting wf-loading"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><title>Recent - GraceWorship</title><link href="../rss.xml" title="GRACE WORSHIP feed" rel="alternate" type="application/rss+xml"/><meta name="generator" content="The Grid taylor/0.16.25"><meta name="the-grid-solution" content="96019885-6380-403b-af93-9fa023407655"><style href="./css/scale/mini.css" media="(max-width: 19.9376em)" rel="stylesheet">@media (max-width: 15.625em){html{font-size:3.09375em !important}}
+<!DOCTYPE HTML><html class="exporting wf-loading"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><title>Recent - GraceWorship</title><link href="../rss.xml" title="GRACE WORSHIP feed" rel="alternate" type="application/rss+xml"/><meta name="generator" content="The Grid taylor/0.17.3"><meta name="the-grid-solution" content="a2e7d6ad-f77f-4b20-8c36-987f02c6b33e"><style href="./css/scale/mini.css" media="(max-width: 19.9376em)" rel="stylesheet">@media (max-width: 15.625em){html{font-size:3.09375em !important}}
 @media (min-width: 15.6875em)and (max-width: 15.75em){	html{font-size:3.28125em !important}}
 @media (min-width: 15.8125em)and (max-width: 16.25em){	html{font-size:3.375em !important}}
 @media (min-width: 16.3125em)and (max-width: 16.6875em){html{font-size:3.46875em !important}}
@@ -202,6 +202,14 @@ body {
 }
 .stack {
   z-index: 1;
+  transition: transform 0.3s ease-out;
+  -webkit-transition: -webkit-transform 0.3s ease-out;
+}
+.group,
+.aside,
+.decoration {
+  transition: transform 0.3s ease-out;
+  -webkit-transition: -webkit-transform 0.3s ease-out;
 }
 picture {
   display: inline-block;
@@ -250,6 +258,9 @@ a:active {
   transition: color 0.1s ease-in, background-color 0.1s ease-out;
   -webkit-transition: color 0.1s ease-in, background-color 0.1s ease-out;
 }
+a.aside {
+  display: inline-block;
+}
 html.exporting a {
   transition: none;
 }
@@ -259,11 +270,21 @@ html.exporting a {
 .media > a {
   display: inline-block;
 }
+.media iframe {
+  transition: 0.3s opacity ease-in;
+  -webkit-transition: 0.3s opacity ease-in;
+}
 h1 a,
 h2 a,
 h3 a {
   font-weight: inherit;
   letter-spacing: inherit;
+}
+a {
+  -webkit-box-decoration-break: clone;
+  -ms-box-decoration-break: clone;
+  -moz-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
 .text-decoration {
   -webkit-box-decoration-break: clone;
@@ -277,36 +298,50 @@ h3 a {
   margin-left: 1.5em;
 }
 .decoration {
-  position: relative;
   pointer-events: none;
+}
+.svg {
+  position: relative;
   background-color: currentColor;
 }
-.decoration > svg {
+.svg > svg {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
 }
-.decoration.connector > svg {
+.svg.connector > svg {
   width: 109%;
   height: 109%;
   margin-left: -2%;
 }
-.decoration path,
-.decoration ellipse,
-.decoration rect,
-.decoration polygon,
-.decoration circle {
+.svg path,
+.svg ellipse,
+.svg rect,
+.svg polygon,
+.svg circle {
   fill: currentColor;
 }
-.decoration mpath,
-.decoration line,
-.decoration polyline {
+.svg mpath,
+.svg line,
+.svg polyline {
   stroke: currentColor;
 }
-.svg.decoration {
+.svg {
   background-color: transparent;
+}
+.revealed .play.svg:after {
+  display: block;
+  width: 40px;
+  height: 40px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  margin-top: -20px;
+  margin-left: -20px;
+  background-color: currentColor;
+  content: "";
 }
 .colors-style-aside-border .publisher,
 .colors-style-aside-border .author {
@@ -590,7 +625,8 @@ ul {
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical{font-size: 0.164rem; line-height: 0.244rem; height: 2.194rem; width: 4.564rem; position: absolute; top: 0rem; left: 0.124rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover{overflow: hidden; width: 4.564rem; height: 2.194rem; position: absolute; top: 0rem; left: 0rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img{height: 2.194rem; width: 4.574rem; position: absolute; top: 0rem; left: 0rem;}
-#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); color: rgb(23, 79, 53); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical :hover.media.cover { color: rgb(140, 198, 62); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a { color: rgb(70, 99, 31); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:hover { color: rgb(204, 204, 204); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:active { color: rgb(255, 255, 255); }
@@ -801,7 +837,8 @@ display: none;
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical{font-size: 0.164rem; line-height: 0.244rem; height: 3.284rem; width: 6.844rem; position: absolute; top: 0rem; left: 0.184rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover{overflow: hidden; width: 6.844rem; height: 3.284rem; position: absolute; top: 0rem; left: 0rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img{height: 3.284rem; width: 6.854rem; position: absolute; top: 0rem; left: 0rem;}
-#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); color: rgb(23, 79, 53); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical :hover.media.cover { color: rgb(140, 198, 62); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a { color: rgb(70, 99, 31); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:hover { color: rgb(204, 204, 204); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:active { color: rgb(255, 255, 255); }
@@ -1004,7 +1041,8 @@ display: none;
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical{font-size: 0.164rem; line-height: 0.244rem; height: 3.694rem; width: 7.684rem; position: absolute; top: 0rem; left: 0.964rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover{overflow: hidden; width: 7.684rem; height: 3.694rem; position: absolute; top: 0rem; left: 0rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img{height: 3.694rem; width: 7.694rem; position: absolute; top: 0rem; left: 0rem;}
-#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); color: rgb(23, 79, 53); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical :hover.media.cover { color: rgb(140, 198, 62); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a { color: rgb(70, 99, 31); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:hover { color: rgb(204, 204, 204); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:active { color: rgb(255, 255, 255); }
@@ -1208,7 +1246,8 @@ display: none;
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical{font-size: 0.164rem; line-height: 0.244rem; height: 5.184rem; width: 10.804rem; position: absolute; top: 0rem; left: 1.444rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover{overflow: hidden; width: 10.804rem; height: 5.184rem; position: absolute; top: 0rem; left: 0rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img{height: 5.184rem; width: 10.814rem; position: absolute; top: 0rem; left: 0rem;}
-#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); color: rgb(23, 79, 53); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical :hover.media.cover { color: rgb(140, 198, 62); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a { color: rgb(70, 99, 31); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:hover { color: rgb(204, 204, 204); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:active { color: rgb(255, 255, 255); }
@@ -1412,7 +1451,8 @@ display: none;
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical{font-size: 0.204rem; line-height: 0.304rem; height: 6.474rem; width: 13.504rem; position: absolute; top: 0rem; left: 1.804rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover{overflow: hidden; width: 13.504rem; height: 6.474rem; position: absolute; top: 0rem; left: 0rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img{height: 6.474rem; width: 13.504rem; position: absolute; top: 0rem; left: 0rem;}
-#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); color: rgb(23, 79, 53); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical :hover.media.cover { color: rgb(140, 198, 62); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a { color: rgb(70, 99, 31); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:hover { color: rgb(204, 204, 204); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:active { color: rgb(255, 255, 255); }
@@ -1616,7 +1656,8 @@ display: none;
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical{font-size: 0.154rem; line-height: 0.234rem; height: 6.484rem; width: 13.514rem; position: absolute; top: 0rem; left: 1.814rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover{overflow: hidden; width: 13.514rem; height: 6.484rem; position: absolute; top: 0rem; left: 0rem;}
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img{height: 6.484rem; width: 13.514rem; position: absolute; top: 0rem; left: 0rem;}
-#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical > .media.cover { background-image: linear-gradient(rgb(58, 44, 23), rgb(140, 198, 62)); color: rgb(23, 79, 53); }
+#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e .group.graphical :hover.media.cover { color: rgb(140, 198, 62); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a { color: rgb(70, 99, 31); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:hover { color: rgb(204, 204, 204); }
 #u-f317e8d1-c4b4-44fc-b52c-a30dc270960e#u-f317e8d1-c4b4-44fc-b52c-a30dc270960e a:active { color: rgb(255, 255, 255); }
@@ -1664,7 +1705,7 @@ display: none;
             </g>
         </g>
     </g>
-</svg></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_large chapter stack textual i first_chapter w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_short_headline w_short_title w_medium_paragraph w_medium_text w_short_list w_short_data stack textual" itemid="5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54" itemtype="text" diff_index="4" index="textual" kind="stack" score="5.75" missed="0.25" tag="article" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54"><div kind="group" index="textual" class="group textual group textual" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual"><h1 kind="title" index="headline" class="short short_headline short_title title headline vfld-leader title headline" specificity="0.25" itemprop="title" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual-t-headline"><span class="text-decoration" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual-t-headline-span">Recent</span></h1><div kind="text" index="paragraph" class="text-decoration medium medium_paragraph medium_text text paragraph text paragraph" specificity="0.25" itemprop="text" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual-t-paragraph"><p><span class="first-letter">I</span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>f you ever walked away from Sunday morning gatherings <wbr class="w480 w960"></wbr>and wondered, "What was the <wbr class="w481 w961 w1799"></wbr>name of that song?" or <wbr class="w480 w960"></wbr>wanted <wbr class="w1800"></wbr>to know how to find the songs we sing at Grace, <wbr class="w480 w960"></wbr>you've <wbr class="w481 w961 w1799"></wbr>come to the right place. Click the link "watch" for <wbr class="w480 w960"></wbr>YouTube <wbr class="w1800"></wbr>videos recorded at Grace during <wbr class="w481 w961 w1799"></wbr>the 9:30am service, <wbr class="w480 w960"></wbr>or click "listen" for a Spotify playlist of the original recordings.</p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>D</span>ecember 27 - Leader: Rodney Gehman</p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>D</span>ecember 20 - Leader: Rodney Gehman</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-trailer data list" specificity="0.25" itemprop="list" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual-d-list"><li><a data-grid-id="6e0e657d-7739-4846-bcd0-1b065b0dc0d5" href="https://youtu.be/taFe1b7VZlU">Watch</a> / Listen</li></ul><div kind="decoration" index="separator" class="decoration separator decoration separator" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual-d-separator"></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="32b8d9b9-1db3-4ace-9757-16d437c13994" itemtype="text" diff_index="1" index="column" kind="stack" score="2.75" missed="0.25" tag="article" id="u-32b8d9b9-1db3-4ace-9757-16d437c13994"><div kind="group" index="column" class="group column group column" id="u-32b8d9b9-1db3-4ace-9757-16d437c13994-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-32b8d9b9-1db3-4ace-9757-16d437c13994-g-column-t-paragraph"><p><span class="first-letter">D</span>ecember 13 - Leader: Mark Visser</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-32b8d9b9-1db3-4ace-9757-16d437c13994-g-column-d-list"><li><a href="https://www.youtube.com/watch?v=dJgj4uwJYnA&index=2&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4">Watch</a> / Listen</li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="852b567b-e193-4758-98aa-2688e003497c" itemtype="text" diff_index="1" index="column" kind="stack" score="2.75" missed="0.25" tag="article" id="u-852b567b-e193-4758-98aa-2688e003497c"><div kind="group" index="column" class="group column group column" id="u-852b567b-e193-4758-98aa-2688e003497c-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-852b567b-e193-4758-98aa-2688e003497c-g-column-t-paragraph"><p><span class="first-letter">D</span>ecember 6 - Leader: Rodney Gehman</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-852b567b-e193-4758-98aa-2688e003497c-g-column-d-list"><li data-grid-id="964546da-5c7d-4ed7-94f6-77950e9df324"><a data-grid-id="a62b1307-2d1f-4fdd-a0b7-d187aca00390" href="https://www.youtube.com/watch?v=dJgj4uwJYnA&index=2&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4">Watch</a> / <a href="https://player.spotify.com/user/122075560/playlist/3fBUl43lswYBhOYoI5FJrF">Listen</a></li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="98ddbf26-6247-4940-ae4a-783bcc495448" itemtype="text" diff_index="1" index="column" kind="stack" score="2.75" missed="0.25" tag="article" id="u-98ddbf26-6247-4940-ae4a-783bcc495448"><div kind="group" index="column" class="group column group column" id="u-98ddbf26-6247-4940-ae4a-783bcc495448-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-98ddbf26-6247-4940-ae4a-783bcc495448-g-column-t-paragraph"><p><span class="first-letter">N</span>ovember 29 - Leader: Rodney Gehman</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-98ddbf26-6247-4940-ae4a-783bcc495448-g-column-d-list"><li><a href="https://www.youtube.com/watch?v=JqY5k6fPo7I&index=1&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4">Watch</a> / <a href="https://player.spotify.com/user/122075560/playlist/1EwZhFwJjTxtOVFo7D3w7S">Listen</a></li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="691a5bd7-7186-43af-8d5c-aaa9cd4c26b6" itemtype="text" diff_index="1" index="column" kind="stack" score="2.75" missed="0.25" tag="article" id="u-691a5bd7-7186-43af-8d5c-aaa9cd4c26b6"><div kind="group" index="column" class="group column group column" id="u-691a5bd7-7186-43af-8d5c-aaa9cd4c26b6-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-691a5bd7-7186-43af-8d5c-aaa9cd4c26b6-g-column-t-paragraph"><p><span class="first-letter">N</span>ovember 22 - Leader: Zack Stanton</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-691a5bd7-7186-43af-8d5c-aaa9cd4c26b6-g-column-d-list"><li data-grid-id="ff05a716-c02f-48d4-aa73-09a3d477a08e"><a data-grid-id="2a7173be-e4d8-47d6-80eb-66c8685327a8" href="https://www.youtube.com/watch?v=EmOloJ64gMg&index=2&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4">Watch</a> / <a href="https://player.spotify.com/user/122075560/playlist/6TZX9abNFwtgx1ZssPvPXN">Listen</a></li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="6b237c4e-aa19-40b5-89b3-a28e1e854d86" itemtype="text" diff_index="1" index="column" kind="stack" score="2.75" missed="0.25" tag="article" id="u-6b237c4e-aa19-40b5-89b3-a28e1e854d86"><div kind="group" index="column" class="group column group column" id="u-6b237c4e-aa19-40b5-89b3-a28e1e854d86-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-6b237c4e-aa19-40b5-89b3-a28e1e854d86-g-column-t-paragraph"><p><span class="first-letter">N</span>ovember 15 - Leader: Mark Visser</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-6b237c4e-aa19-40b5-89b3-a28e1e854d86-g-column-d-list"><li data-grid-id="06ad5c1e-6779-4103-82b7-5f8c56c7ea84"><a href="https://www.youtube.com/watch?v=VNDYFn9Cbgg&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4&index=1">Watch</a>/<a data-grid-id="f416985c-1da6-4dfb-8222-11cf749de028" href="https://player.spotify.com/user/122075560/playlist/7oHXwO29aDKifS1hngtL8q">Listen</a></li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="ccfdf7e1-a8f7-4ecb-9335-79a838450dd5" itemtype="text" diff_index="1" index="column" kind="stack" score="2.75" missed="0.25" tag="article" id="u-ccfdf7e1-a8f7-4ecb-9335-79a838450dd5"><div kind="group" index="column" class="group column group column" id="u-ccfdf7e1-a8f7-4ecb-9335-79a838450dd5-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-ccfdf7e1-a8f7-4ecb-9335-79a838450dd5-g-column-t-paragraph"><p><span class="first-letter">N</span>ovember 8 - Leader: Rodney Gehman</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-ccfdf7e1-a8f7-4ecb-9335-79a838450dd5-g-column-d-list"><li data-grid-id="d43bdd38-f083-458e-906c-9a400f63bd37"><a href="https://www.youtube.com/watch?v=T1pFDldcGaM&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4&index=2">Watch</a>/ Listen</li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="cd00c2ec-9c9e-4511-831a-90cf52e375e3" itemtype="text" diff_index="1" index="column" kind="stack" score="2.75" missed="0.25" tag="article" id="u-cd00c2ec-9c9e-4511-831a-90cf52e375e3"><div kind="group" index="column" class="group column group column" id="u-cd00c2ec-9c9e-4511-831a-90cf52e375e3-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-cd00c2ec-9c9e-4511-831a-90cf52e375e3-g-column-t-paragraph"><p><span class="first-letter">N</span>ovember 1 - Leader: Rodney Gehman</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-cd00c2ec-9c9e-4511-831a-90cf52e375e3-g-column-d-list"><li data-grid-id="cb868af5-5662-404d-9eef-8b88d00afdab"><a href="https://www.youtube.com/watch?v=v1Zpv5-g2NQ&index=3&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4">Watch</a>/ Listen</li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full aspect_natural line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack graphical i last_chapter w_cover w_media w_decoration media_gte_narrow media_gte_half media_lt_wide media_lt_full media_landscape crop_true stack graphical" itemid="f317e8d1-c4b4-44fc-b52c-a30dc270960e" itemtype="image" diff_index="5" index="graphical" kind="stack" score="3" tag="article" id="u-f317e8d1-c4b4-44fc-b52c-a30dc270960e"><div kind="group" index="graphical" class="group graphical group graphical" id="u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical"><a kind="media" index="cover" class="vfld media cover vfld-leader vfld-trailer media cover" specificity="0.25" itemprop="cover" max-width="801" max-height="384" href="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png" id="u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover"><picture id="u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img" class=""><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 1441px) and (min-width: 1441px) and (max-width: 1799px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 1441px) and (min-width: 1800px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ac39036d1e0174c455cc09a9be0c0192/passthrough.png?height=369&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=769, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 721px) and (min-width: 721px) and (max-width: 960px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 721px) and (min-width: 961px) and (max-width: 1440px)" /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aebc5087f9829854162bdd4684ce144d/passthrough.png?height=219&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=457, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 1px) and (max-width: 480px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60cfdf5fa52240570a19d65e9ecbd9a5/passthrough.png?height=328&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=685, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 1px) and (min-width: 481px) and (max-width: 720px)" /><!--[if IE 9]></video><![endif]--><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="  /></picture></a></div></article><article subject="panel" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_center uninverted vertical collapsed full line_padding_aside_inside text_width_full group_h_align_none text_align_center flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_small panel stack heading i first_panel last_panel w_headline w_title w_decoration w_short_headline w_short_title stack heading" itemid="u-page-alternate" itemtype="alternate" diff_index="2" index="heading" kind="stack" score="1.875" missed="0.125" tag="article" id="u-e121a211-940f-4158-85db-3a7649d67150-alternate"><div kind="group" index="heading" class="group heading group heading" id="u-e121a211-940f-4158-85db-3a7649d67150-alternate-g-heading"><h1 kind="title" index="headline" class="short short_headline short_title title headline vfld-leader vfld-trailer title headline" specificity="0.25" itemprop="title" id="u-e121a211-940f-4158-85db-3a7649d67150-alternate-g-heading-t-headline"><a class="text-decoration" href="../rss.xml" id="u-e121a211-940f-4158-85db-3a7649d67150-alternate-g-heading-t-headline-a">GRACE WORSHIP feed</a></h1></div></article><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_short_headline w_short_title w_list w_data w_short_list w_short_data layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_leader w_short_headline w_short_title w_medium_paragraph w_medium_text w_short_list w_short_data w_short_paragraph w_short_text w_cover w_media w_trailer w_connector media_gte_narrow media_gte_half media_lt_wide media_lt_full media_landscape crop_true layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_short_headline w_short_title layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one-3-l-one"></div><style id="u-e121a211-940f-4158-85db-3a7649d67150-color">body{background-color: rgba(250, 249, 248, 1)}</style></section><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_short_headline w_short_title w_list w_data w_short_list w_short_data layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_leader w_short_headline w_short_title w_medium_paragraph w_medium_text w_short_list w_short_data w_short_paragraph w_short_text w_cover w_media w_trailer w_connector media_gte_narrow media_gte_half media_lt_wide media_lt_full media_landscape crop_true layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_short_headline w_short_title layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one-3-l-one"></div><style id="u-e121a211-940f-4158-85db-3a7649d67150-color">body{background-color: rgba(250, 249, 248, 1)}</style></section></div><script href="./client.js">(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
+</svg></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_large chapter stack textual i first_chapter w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_short_headline w_short_title w_medium_paragraph w_medium_text w_short_list w_short_data stack textual" itemid="5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54" itemtype="text" diff_index="4" index="textual" kind="stack" score="1.75" missed="0.25" tag="article" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54"><div kind="group" index="textual" class="group textual group textual" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual"><h1 kind="title" index="headline" class="short short_headline short_title title headline vfld-leader title headline" specificity="0.25" itemprop="title" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual-t-headline"><span class="text-decoration" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual-t-headline-span">Recent</span></h1><div kind="text" index="paragraph" class="text-decoration medium medium_paragraph medium_text text paragraph text paragraph" specificity="0.25" itemprop="text" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual-t-paragraph"><p><span class="first-letter">I</span><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>f you ever walked away from Sunday morning gatherings <wbr class="w480 w960"></wbr>and wondered, "What was the <wbr class="w481 w961 w1799"></wbr>name of that song?" or <wbr class="w480 w960"></wbr>wanted <wbr class="w1800"></wbr>to know how to find the songs we sing at Grace, <wbr class="w480 w960"></wbr>you've <wbr class="w481 w961 w1799"></wbr>come to the right place. Click the link "watch" for <wbr class="w480 w960"></wbr>YouTube <wbr class="w1800"></wbr>videos recorded at Grace during <wbr class="w481 w961 w1799"></wbr>the 9:30am service, <wbr class="w480 w960"></wbr>or click "listen" for a Spotify playlist of the original recordings.</p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>D</span>ecember 27 - Leader: Rodney Gehman</p><p><span class="first-letter"><wbr class="w480 w481 w960 w961 w1799 w1800"></wbr>D</span>ecember 20 - Leader: Rodney Gehman</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-trailer data list" specificity="0.25" itemprop="list" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual-d-list"><li><a data-grid-id="6e0e657d-7739-4846-bcd0-1b065b0dc0d5" href="https://youtu.be/taFe1b7VZlU">Watch</a> / Listen</li></ul><div kind="decoration" index="separator" class="decoration separator decoration separator" id="u-5b6a17a6-0e4a-49f4-b7be-6b7d076d7c54-g-textual-d-separator"></div></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="32b8d9b9-1db3-4ace-9757-16d437c13994" itemtype="text" diff_index="1" index="column" kind="stack" score="0.75" missed="0.25" tag="article" id="u-32b8d9b9-1db3-4ace-9757-16d437c13994"><div kind="group" index="column" class="group column group column" id="u-32b8d9b9-1db3-4ace-9757-16d437c13994-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-32b8d9b9-1db3-4ace-9757-16d437c13994-g-column-t-paragraph"><p><span class="first-letter">D</span>ecember 13 - Leader: Mark Visser</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-32b8d9b9-1db3-4ace-9757-16d437c13994-g-column-d-list"><li><a href="https://www.youtube.com/watch?v=dJgj4uwJYnA&index=2&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4">Watch</a> / Listen</li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="852b567b-e193-4758-98aa-2688e003497c" itemtype="text" diff_index="1" index="column" kind="stack" score="0.75" missed="0.25" tag="article" id="u-852b567b-e193-4758-98aa-2688e003497c"><div kind="group" index="column" class="group column group column" id="u-852b567b-e193-4758-98aa-2688e003497c-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-852b567b-e193-4758-98aa-2688e003497c-g-column-t-paragraph"><p><span class="first-letter">D</span>ecember 6 - Leader: Rodney Gehman</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-852b567b-e193-4758-98aa-2688e003497c-g-column-d-list"><li data-grid-id="964546da-5c7d-4ed7-94f6-77950e9df324"><a data-grid-id="a62b1307-2d1f-4fdd-a0b7-d187aca00390" href="https://www.youtube.com/watch?v=dJgj4uwJYnA&index=2&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4">Watch</a> / <a href="https://player.spotify.com/user/122075560/playlist/3fBUl43lswYBhOYoI5FJrF">Listen</a></li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="98ddbf26-6247-4940-ae4a-783bcc495448" itemtype="text" diff_index="1" index="column" kind="stack" score="0.75" missed="0.25" tag="article" id="u-98ddbf26-6247-4940-ae4a-783bcc495448"><div kind="group" index="column" class="group column group column" id="u-98ddbf26-6247-4940-ae4a-783bcc495448-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-98ddbf26-6247-4940-ae4a-783bcc495448-g-column-t-paragraph"><p><span class="first-letter">N</span>ovember 29 - Leader: Rodney Gehman</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-98ddbf26-6247-4940-ae4a-783bcc495448-g-column-d-list"><li><a href="https://www.youtube.com/watch?v=JqY5k6fPo7I&index=1&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4">Watch</a> / <a href="https://player.spotify.com/user/122075560/playlist/1EwZhFwJjTxtOVFo7D3w7S">Listen</a></li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="691a5bd7-7186-43af-8d5c-aaa9cd4c26b6" itemtype="text" diff_index="1" index="column" kind="stack" score="0.75" missed="0.25" tag="article" id="u-691a5bd7-7186-43af-8d5c-aaa9cd4c26b6"><div kind="group" index="column" class="group column group column" id="u-691a5bd7-7186-43af-8d5c-aaa9cd4c26b6-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-691a5bd7-7186-43af-8d5c-aaa9cd4c26b6-g-column-t-paragraph"><p><span class="first-letter">N</span>ovember 22 - Leader: Zack Stanton</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-691a5bd7-7186-43af-8d5c-aaa9cd4c26b6-g-column-d-list"><li data-grid-id="ff05a716-c02f-48d4-aa73-09a3d477a08e"><a data-grid-id="2a7173be-e4d8-47d6-80eb-66c8685327a8" href="https://www.youtube.com/watch?v=EmOloJ64gMg&index=2&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4">Watch</a> / <a href="https://player.spotify.com/user/122075560/playlist/6TZX9abNFwtgx1ZssPvPXN">Listen</a></li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="6b237c4e-aa19-40b5-89b3-a28e1e854d86" itemtype="text" diff_index="1" index="column" kind="stack" score="0.75" missed="0.25" tag="article" id="u-6b237c4e-aa19-40b5-89b3-a28e1e854d86"><div kind="group" index="column" class="group column group column" id="u-6b237c4e-aa19-40b5-89b3-a28e1e854d86-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-6b237c4e-aa19-40b5-89b3-a28e1e854d86-g-column-t-paragraph"><p><span class="first-letter">N</span>ovember 15 - Leader: Mark Visser</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-6b237c4e-aa19-40b5-89b3-a28e1e854d86-g-column-d-list"><li data-grid-id="06ad5c1e-6779-4103-82b7-5f8c56c7ea84"><a href="https://www.youtube.com/watch?v=VNDYFn9Cbgg&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4&index=1">Watch</a>/<a data-grid-id="f416985c-1da6-4dfb-8222-11cf749de028" href="https://player.spotify.com/user/122075560/playlist/7oHXwO29aDKifS1hngtL8q">Listen</a></li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="ccfdf7e1-a8f7-4ecb-9335-79a838450dd5" itemtype="text" diff_index="1" index="column" kind="stack" score="0.75" missed="0.25" tag="article" id="u-ccfdf7e1-a8f7-4ecb-9335-79a838450dd5"><div kind="group" index="column" class="group column group column" id="u-ccfdf7e1-a8f7-4ecb-9335-79a838450dd5-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-ccfdf7e1-a8f7-4ecb-9335-79a838450dd5-g-column-t-paragraph"><p><span class="first-letter">N</span>ovember 8 - Leader: Rodney Gehman</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-ccfdf7e1-a8f7-4ecb-9335-79a838450dd5-g-column-d-list"><li data-grid-id="d43bdd38-f083-458e-906c-9a400f63bd37"><a href="https://www.youtube.com/watch?v=T1pFDldcGaM&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4&index=2">Watch</a>/ Listen</li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack column i w_paragraph w_text w_list w_data w_short_paragraph w_short_text w_short_list w_short_data stack column" itemid="cd00c2ec-9c9e-4511-831a-90cf52e375e3" itemtype="text" diff_index="1" index="column" kind="stack" score="0.75" missed="0.25" tag="article" id="u-cd00c2ec-9c9e-4511-831a-90cf52e375e3"><div kind="group" index="column" class="group column group column" id="u-cd00c2ec-9c9e-4511-831a-90cf52e375e3-g-column"><div kind="text" index="paragraph" class="text-decoration short short_paragraph short_text text paragraph vfld-trailer text paragraph" specificity="0.25" itemprop="text" id="u-cd00c2ec-9c9e-4511-831a-90cf52e375e3-g-column-t-paragraph"><p><span class="first-letter">N</span>ovember 1 - Leader: Rodney Gehman</p></div><ul kind="data" index="list" class="short short_list short_data data list vfld-leader data list" specificity="0.25" itemprop="list" id="u-cd00c2ec-9c9e-4511-831a-90cf52e375e3-g-column-d-list"><li data-grid-id="cb868af5-5662-404d-9eef-8b88d00afdab"><a href="https://www.youtube.com/watch?v=v1Zpv5-g2NQ&index=3&list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4">Watch</a>/ Listen</li></ul></div></article><article subject="chapter" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_stretch uninverted vertical collapsed full aspect_natural line_padding_aside_inside text_width_wider group_h_align_center text_align_left flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_article chapter stack graphical i last_chapter w_cover w_media w_decoration media_gte_narrow media_gte_half media_lt_wide media_lt_full media_landscape crop_true stack graphical" itemid="f317e8d1-c4b4-44fc-b52c-a30dc270960e" itemtype="image" diff_index="5" index="graphical" kind="stack" score="3" tag="article" id="u-f317e8d1-c4b4-44fc-b52c-a30dc270960e"><div kind="group" index="graphical" class="group graphical group graphical" id="u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical"><a kind="media" index="cover" class="vfld media cover vfld-leader vfld-trailer media cover" specificity="0.25" itemprop="cover" max-width="801" max-height="384" href="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png" id="u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover"><picture id="u-f317e8d1-c4b4-44fc-b52c-a30dc270960e-g-graphical-m-cover-img" class=""><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 1441px) and (min-width: 1441px) and (max-width: 1799px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 1441px) and (min-width: 1800px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ac39036d1e0174c455cc09a9be0c0192/passthrough.png?height=369&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=769, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 721px) and (min-width: 721px) and (max-width: 960px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 721px) and (min-width: 961px) and (max-width: 1440px)" /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aebc5087f9829854162bdd4684ce144d/passthrough.png?height=219&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=457, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 1px) and (max-width: 480px) " /><source srcset="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60cfdf5fa52240570a19d65e9ecbd9a5/passthrough.png?height=328&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=685, https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7755f1523d49f01c40b9faafcca5c3ee/passthrough.png?height=384&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5f7556c2f025eed882aaa95628aaaedb4c6df2bf.png&width=801 2x" media="(min-width: 1px) and (min-width: 481px) and (max-width: 720px)" /><!--[if IE 9]></video><![endif]--><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="  /></picture></a></div></article><article subject="panel" class="col-1 export-linebreaks not_decorated color_adjust_none color_styles_no_group_bg color_schema_default stack_transparency_off v_emphasis_none h_emphasis_none group_overlap_none stack_v_outset_none stack_v_inset_none stack_h_outset_none stack_h_inset_xsmall stack_h_align_center uninverted vertical collapsed full line_padding_aside_inside text_width_full group_h_align_none text_align_center flow_unreversed group_v_outset_none group_v_inset_none group_h_outset_none group_h_inset_xsmall flow_vertical font_size_small panel stack heading i first_panel last_panel w_headline w_title w_decoration w_short_headline w_short_title stack heading" itemid="u-page-alternate" itemtype="alternate" diff_index="2" index="heading" kind="stack" score="1.875" missed="0.125" tag="article" id="u-e121a211-940f-4158-85db-3a7649d67150-alternate"><div kind="group" index="heading" class="group heading group heading" id="u-e121a211-940f-4158-85db-3a7649d67150-alternate-g-heading"><h1 kind="title" index="headline" class="short short_headline short_title title headline vfld-leader vfld-trailer title headline" specificity="0.25" itemprop="title" id="u-e121a211-940f-4158-85db-3a7649d67150-alternate-g-heading-t-headline"><a class="text-decoration" href="../rss.xml" id="u-e121a211-940f-4158-85db-3a7649d67150-alternate-g-heading-t-headline-a">GRACE WORSHIP feed</a></h1></div></article><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_short_headline w_short_title w_list w_data w_short_list w_short_data layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_leader w_short_headline w_short_title w_medium_paragraph w_medium_text w_short_list w_short_data w_short_paragraph w_short_text w_cover w_media w_trailer w_connector media_gte_narrow media_gte_half media_lt_wide media_lt_full media_landscape crop_true layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_short_headline w_short_title layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-desktop-l-one-3-l-one"></div><style id="u-e121a211-940f-4158-85db-3a7649d67150-color">body{background-color: rgba(250, 249, 248, 1)}</style></section><section kind="layout" style="position: relative" sequence="one" role="header" diff_index="0" index="one" class="layout one i first_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_short_headline w_short_title w_list w_data w_short_list w_short_data layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout header layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="article" diff_index="0" index="one" class="layout one i w_headline w_title w_paragraph w_text w_list w_data w_separator w_decoration w_leader w_short_headline w_short_title w_medium_paragraph w_medium_text w_short_list w_short_data w_short_paragraph w_short_text w_cover w_media w_trailer w_connector media_gte_narrow media_gte_half media_lt_wide media_lt_full media_landscape crop_true layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one-2"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local colors-use-same-as-previous layout one i first_layout last_layout article layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one-2-l-one"></div></section><section kind="layout" style="position: relative" sequence="one" role="footer" diff_index="0" index="one" class="layout one i last_layout w_headline w_title w_separator w_decoration w_leader w_trailer w_icon w_short_headline w_short_title layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one-3"><div kind="layout" style="position: relative" sequence="one" diff_index="0" index="one" class="colors-use-local w_titles layout one i first_layout last_layout footer layout one" id="u-e121a211-940f-4158-85db-3a7649d67150-cinema-l-one-3-l-one"></div><style id="u-e121a211-940f-4158-85db-3a7649d67150-color">body{background-color: rgba(250, 249, 248, 1)}</style></section></div><script href="./client.js">(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 /*! Hammer.JS - v1.1.3 - 2014-05-20
  * http://eightmedia.github.io/hammer.js
  *
@@ -2191,9 +2232,11 @@ global.Hamburger = require('./hamburger');
 
 global.Highlighter = require('./highlighter');
 
+global.Player = require('./player');
+
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./animator":3,"./hamburger":4,"./highlighter":5,"./paginator":7,"hammerjs/hammer.min.js":1,"picturefill/dist/picturefill.min.js":2}],7:[function(require,module,exports){
+},{"./animator":3,"./hamburger":4,"./highlighter":5,"./paginator":7,"./player":8,"hammerjs/hammer.min.js":1,"picturefill/dist/picturefill.min.js":2}],7:[function(require,module,exports){
 var appendPage, mainpage, page, ref, ref1, urls;
 
 page = require('./reflow');
@@ -2294,7 +2337,192 @@ module.exports = function() {
 };
 
 
-},{"./reflow":8}],8:[function(require,module,exports){
+},{"./reflow":9}],8:[function(require,module,exports){
+var Player, Youtube, iframe, revealed, rgb2hex;
+
+iframe = null;
+
+Youtube = null;
+
+Player = function(id, src, width, height, color, bg) {
+  if (src.indexOf('youtube') > -1) {
+    src += '&color=white&theme=light&modestbranding=1';
+  }
+  src = src.replace('COLOR', color).replace('BG', bg);
+  if (location.protocol !== 'https:') {
+    src = src.replace('https:', 'http:');
+  }
+  iframe = document.createElement('iframe');
+  iframe.id = id;
+  iframe.setAttribute('allowfullscreen', '');
+  iframe.src = src;
+  iframe.width = width;
+  iframe.height = height;
+  iframe.style.width = '100%';
+  iframe.style.height = '100%';
+  iframe.style.left = 0;
+  iframe.style.right = 0;
+  iframe.style.position = 'absolute';
+  iframe.style.opacity = 0.2;
+  iframe.onload = function() {
+    return iframe.style.opacity = 1;
+  };
+  return iframe;
+};
+
+revealed = null;
+
+Player.reveal = function(iframe) {
+  var diff, i, left, len, parent, play, ref, ref1, sibling, target, top, translateX, translateY;
+  while (target = (target || iframe).parentNode) {
+    if ((ref = target.classList) != null ? ref.contains('media') : void 0) {
+      if (target.parentNode.classList.contains('group')) {
+        parent = target.parentNode;
+      } else {
+        parent = target;
+      }
+      revealed = iframe;
+      play = parent.getElementsByClassName('play')[0];
+      left = target.offsetWidth - play.offsetLeft - play.offsetWidth;
+      top = -play.offsetTop;
+      play.style.webkitTransformOrigin = 'top right';
+      play.style.webkitTransform = 'translateX(' + left + 'px) translateY(' + top + 'px) scale(0.5)';
+      target.classList.add('revealed');
+      ref1 = parent.parentNode.childNodes;
+      for (i = 0, len = ref1.length; i < len; i++) {
+        sibling = ref1[i];
+        if (sibling.nodeType === 1 && sibling !== parent) {
+          translateX = translateY = null;
+          if ((diff = sibling.offsetLeft + sibling.offsetWidth - parent.offsetLeft) > 2 && parent.offsetLeft >= sibling.offsetLeft) {
+            translateX = -diff;
+          }
+          if ((diff = target.offsetLeft + target.offsetWidth - sibling.offsetLeft) > 2 && parent.offsetLeft <= sibling.offsetLeft) {
+            if (!translateX || Math.abs(diff) < Math.abs(translateX)) {
+              translateX = diff;
+            }
+          }
+          if ((diff = sibling.offsetTop + sibling.offsetHeight - parent.offsetTop) > 2 && parent.offsetTop >= sibling.offsetTop) {
+            translateY = -diff;
+          }
+          if ((diff = target.offsetTop + target.offsetHeight - sibling.offsetTop) > 2 && parent.offsetTop <= sibling.offsetTop) {
+            if (!translateY || Math.abs(diff) < Math.abs(translateY)) {
+              translateY = diff;
+            }
+          }
+          if (Math.abs(translateX) > Math.abs(translateY)) {
+            sibling.style.webkitTransform = 'translateY(' + translateY + 'px)';
+          } else {
+            sibling.style.webkitTransform = 'translateX(' + translateX + 'px)';
+          }
+          console.log(translateX, translateY, sibling);
+        }
+      }
+    }
+  }
+};
+
+Player.hide = function(iframe) {
+  var i, len, parent, play, ref, ref1, sibling;
+  while (parent = (parent || iframe).parentNode) {
+    if ((ref = parent.classList) != null ? ref.contains('revealed') : void 0) {
+      parent.classList.remove('revealed');
+      if (parent.parentNode.classList.contains('group')) {
+        parent = parent.parentNode;
+      }
+      play = parent.getElementsByClassName('play')[0];
+      play.style.webkitTransform = '';
+      ref1 = parent.parentNode.childNodes;
+      for (i = 0, len = ref1.length; i < len; i++) {
+        sibling = ref1[i];
+        sibling.style.webkitTransform = '';
+      }
+    }
+  }
+  return revealed = null;
+};
+
+window.addEventListener('resize', function() {
+  return setTimeout(function() {
+    return requestAnimationFrame(function() {
+      if (revealed) {
+        if (revealed.offsetWidth) {
+          return Player.reveal(revealed);
+        } else {
+          return Player.stop(revealed);
+        }
+      }
+    });
+  }, 10);
+});
+
+Player.stop = function(iframe) {
+  var old;
+  old = iframe;
+  iframe.style.opacity = 0;
+  setTimeout(function() {
+    var ref;
+    return (ref = old.parentNode) != null ? ref.removeChild(old) : void 0;
+  }, 300);
+  Player.hide(iframe);
+  return iframe = null;
+};
+
+document.addEventListener('click', function(e) {
+  var bg, color, header, parent, play, ref, ref1, results, styles, target;
+  target = e.target;
+  results = [];
+  while (target) {
+    if ((ref = target.classList) != null ? ref.contains('media') : void 0) {
+      if (play = target.getElementsByClassName('play')[0]) {
+        if ((iframe != null ? iframe.parentNode : void 0) === target) {
+          Player.stop(iframe);
+        } else {
+          if (iframe) {
+            Player.stop(iframe);
+          }
+          color = bg = null;
+          header = (ref1 = target.parentNode.parentNode.getElementsByClassName('title')[0]) != null ? ref1.firstChild : void 0;
+          parent = header || play;
+          while (parent) {
+            if (parent.nodeType === 1) {
+              styles = window.getComputedStyle(parent);
+              if (styles.color.indexOf('rgba') === -1 || !styles.color.match(/,\s*0\)/)) {
+                if (color == null) {
+                  color = styles.color;
+                }
+              }
+              if (styles['background-color'].indexOf('rgba') === -1 || !styles['background-color'].match(/,\s*0\)/)) {
+                if (bg == null) {
+                  bg = styles['background-color'];
+                }
+              }
+            }
+            parent = parent.parentNode;
+          }
+          iframe = Player(play.id + '-player', play.getAttribute('data-src'), play.getAttribute('data-width'), play.getAttribute('data-height'), rgb2hex(color), rgb2hex(bg));
+          target.appendChild(iframe);
+          Player.reveal(iframe);
+        }
+        e.preventDefault();
+        break;
+      }
+    }
+    results.push(target = target.parentNode);
+  }
+  return results;
+});
+
+rgb2hex = function(rgb) {
+  rgb = rgb.match(/^rgba?[\s+]?\([\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?/i);
+  if (rgb && rgb.length === 4) {
+    return ("0" + parseInt(rgb[1], 10).toString(16)).slice(-2) + ("0" + parseInt(rgb[2], 10).toString(16)).slice(-2) + ("0" + parseInt(rgb[3], 10).toString(16)).slice(-2);
+  }
+};
+
+window.exports = window.Player = Player;
+
+
+},{}],9:[function(require,module,exports){
 module.exports = {
   reflow: function(container) {
     var counter, heights, hidden, hole, holed, holes, i, id, ids, index, j, k, l, last, layout, layouts, len, len1, len2, len3, m, mutations, name, node, ref, ref1, ref2, stack, stacks;
@@ -2559,7 +2787,7 @@ module.exports = function(callback) {
   } else {
     protocol = '';
   }
-  url = protocol + "//cdn.thegrid.io/gss/gss-document/1.2.4/gss.document.parser.js";
+  url = protocol + "//cdn.thegrid.io/gss/gss-document/1.2.8/gss.document.parser.js";
   if (location.toString().indexOf('//localhost:8080') > -1) {
     return module.exports.load(protocol + "//localhost:8080/node_modules/gss-document/dist/gss.document.parser.js", callback, function() {
       return module.exports.load(url, callback);
