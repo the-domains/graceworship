@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T19:34:34.094Z'
-dateModified: '2016-01-23T19:34:31.871Z'
+datePublished: '2016-01-23T19:40:59.572Z'
+dateModified: '2016-01-23T19:40:57.843Z'
 title: MUSIC MINISTRY
 author: []
 sourcePath: _posts/2015-11-27-music-ministry.md
