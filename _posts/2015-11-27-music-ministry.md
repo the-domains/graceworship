@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T19:58:21.893Z'
+datePublished: '2016-02-01T19:58:21.837Z'
 dateModified: '2016-02-01T19:58:18.815Z'
 title: MUSIC MINISTRY
 author: []
