@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T19:42:16.207Z'
-dateModified: '2016-01-23T19:42:13.088Z'
+datePublished: '2016-02-01T19:58:21.932Z'
+dateModified: '2016-02-01T19:58:18.815Z'
 title: MUSIC MINISTRY
 author: []
 sourcePath: _posts/2015-11-27-music-ministry.md
@@ -22,6 +22,5 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df41f23c4572704358f15b575551887517ff2f60.jpg)
-
 # MUSIC MINISTRY
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05f961c78840d9a9ba1751af3156f666313b365c.jpg)
