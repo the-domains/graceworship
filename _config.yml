@@ -1,7 +1,7 @@
 name: Grace Worship
 favicon: null
 layout_spectrum: 0.24791
-typography_spectrum: 0.49329
+typography_spectrum: 0.33138
 collections:
   - index:
       path: /
@@ -34,8 +34,8 @@ color:
     - '#026536'
     - '#8cc63e'
     - '#959088'
-  brandStrength: 0.5
-  lightness: 0.5
+  brandStrength: 0.25
+  lightness: 1
   saturation: 1
   rhythmicContrast: 0.5
 purpose: []
