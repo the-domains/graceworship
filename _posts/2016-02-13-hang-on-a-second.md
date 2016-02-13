@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T06:46:08.676Z'
-dateModified: '2016-02-13T06:43:07.153Z'
+datePublished: '2016-02-13T06:51:57.030Z'
+dateModified: '2016-02-13T06:51:08.095Z'
 title: 'Hang on a second!'
 author: []
 sourcePath: _posts/2016-02-13-hang-on-a-second.md
@@ -19,12 +19,11 @@ publisher:
   url: null
   favicon: null
 url: hang-on-a-second/index.html
-_type: Blurb
+_type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c1147b3-6b3e-4b63-87f8-b547aa8cd882.jpg)
-
 # Hang on a second!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c1147b3-6b3e-4b63-87f8-b547aa8cd882.jpg)
 
 In the middle of the cornfield behind our house stands a patch of timber, probably a good half mile from our house. My son Jackson, 11, loves to play in that timber and pretend he's a pioneer of some sort. He takes his BB gun, the dog, and whatever friend he's invited over and they disappear. He's built a fort back there, and I love it that he's doing something called "not a video game"!
 
