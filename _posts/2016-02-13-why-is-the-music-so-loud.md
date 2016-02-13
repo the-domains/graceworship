@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T05:55:36.115Z'
-dateModified: '2016-02-13T05:55:27.027Z'
+datePublished: '2016-02-13T05:56:49.221Z'
+dateModified: '2016-02-13T05:56:44.431Z'
 title: Why is the music so loud?
 author: []
+sourcePath: _posts/2016-02-13-why-is-the-music-so-loud.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-13-why-is-the-music-so-loud.md
-published: true
 url: why-is-the-music-so-loud/index.html
 _type: Blurb
 
