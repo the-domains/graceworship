@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T05:23:14.918Z'
-dateModified: '2016-02-13T05:23:07.563Z'
+datePublished: '2016-02-13T05:41:42.405Z'
+dateModified: '2016-02-13T05:41:39.945Z'
 title: Worship Before You Serve
 author: []
 sourcePath: _posts/2016-02-13-worship-before-you-serve.md
@@ -58,4 +58,4 @@ The good news of the gospel is that, whether we identify with Martha or Mary, Je
 Our musical skill and team unity now point to our Father in heaven, smiling and singing over us; Our fancy table settings and food preparation point to his delight in our enjoyment of his creation, his endless creativity, and the feast we'll share with him in glory some day; Our community with each other points to the communion of the Trinity we have been invited into for Eternity! 
 
 **_Praise God_**!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c1d8d58-dc98-423b-aaa4-1883ad3452cd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ad6becd0a401dde2cd7eeeb67b3829ce853b0e8.jpg)
