@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T06:51:57.030Z'
-dateModified: '2016-02-13T06:51:08.095Z'
+datePublished: '2016-02-13T07:38:46.963Z'
+dateModified: '2016-02-13T07:38:35.107Z'
 title: 'Hang on a second!'
 author: []
 sourcePath: _posts/2016-02-13-hang-on-a-second.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: hang-on-a-second/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Hang on a second!
