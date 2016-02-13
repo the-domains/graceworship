@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-13T07:06:07.450Z'
-dateModified: '2016-02-13T07:05:52.177Z'
+datePublished: '2016-02-13T07:40:01.224Z'
+dateModified: '2016-02-13T07:39:54.846Z'
 author: []
 title: Music Ministry
 sourcePath: _posts/2016-02-13-music-ministry.md
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # Music Ministry
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96e1e3b2df0750dd347b3326496fdaa1b94a519f.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3259374fd1357614369da66dff8428a625e25949.png)
