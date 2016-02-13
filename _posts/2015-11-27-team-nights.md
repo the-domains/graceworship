@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T05:40:06.448Z'
-dateModified: '2016-02-13T05:40:02.528Z'
+datePublished: '2016-02-13T05:50:25.390Z'
+dateModified: '2016-02-13T05:50:21.183Z'
 title: Team Nights
 author: []
 sourcePath: _posts/2015-11-27-team-nights.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: team-nights/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Team Nights
