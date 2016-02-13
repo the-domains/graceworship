@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:9554845b-9119-4fc6-bf29-e1279a43be28'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-13T05:20:28.311Z'
-dateModified: '2016-02-13T05:20:25.039Z'
+datePublished: '2016-02-13T05:20:54.156Z'
+dateModified: '2016-02-13T05:20:49.537Z'
 author: []
 title: Music Ministry
 sourcePath: _posts/2016-02-13-music-ministry.md
