@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How do I get involved in Music Ministry?
-datePublished: '2016-02-13T05:50:47.863Z'
-dateModified: '2016-02-13T05:50:43.107Z'
+datePublished: '2016-02-15T17:12:03.632Z'
+dateModified: '2016-02-15T17:12:00.619Z'
 title: Join
 sourcePath: _posts/2015-10-17-join-the-team.md
 published: true
@@ -37,7 +37,7 @@ _\*attend 75% of your group's meetings, contributing food, leadership, servantho
 
 ## APPLICATION
 
-Once those two requirements are satisfied, please click here - [Praise Team Application][2] - to formally apply for the Praise Team. 
+Once those two requirements are met, please click here - [Praise Team Application][2] - to formally apply for the Praise Team. 
 
 __
 
