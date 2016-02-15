@@ -7,10 +7,10 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T03:40:28.651Z'
-dateModified: '2016-02-15T03:40:25.941Z'
+datePublished: '2016-02-15T03:42:09.031Z'
+dateModified: '2016-02-15T03:42:02.571Z'
 author: []
-title: Worship
+title: ' '
 sourcePath: _posts/2016-02-13-music-ministry.md
 published: true
 authors: []
@@ -25,8 +25,4 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/361910de7fad57071455a4da24e89c0ed61217c2.jpg)
 
-# Worship
-
-We believe that worship is far more than just music.  We believe that worship is not only what we do on Sundays, but encompasses all areas of life... finances, relationships, vocation, recreation, education, etc. 
-
-We believe that worship is the appropriate Christian response to what God has done for us through Christ. We believe that, Jesus Christ, the Son of God, is the central object, the mediator, and the perfecter of our worship.
+#
