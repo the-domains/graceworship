@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T19:29:58.508Z'
-dateModified: '2016-02-13T07:46:16.051Z'
+datePublished: '2016-02-15T03:22:25.964Z'
+dateModified: '2016-02-15T03:22:21.667Z'
 title: 'Hang on a second!'
 author: []
 sourcePath: _posts/2016-02-13-hang-on-a-second.md
