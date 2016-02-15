@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T03:23:51.697Z'
-dateModified: '2016-02-15T03:23:48.726Z'
+datePublished: '2016-02-15T03:25:05.578Z'
+dateModified: '2016-02-15T03:25:03.284Z'
 author: []
 title: Music Ministry
 sourcePath: _posts/2016-02-13-music-ministry.md
@@ -23,7 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d18fa6e-7ad3-4599-a58a-5373580421a9.jpg)
+
 # Music Ministry
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0171e501fa98438f6a6a5aa74694627a929c066.png)
 
 Worship is the appropriate Christian response to what God has done for us through Christ. Therefore, Jesus Christ, the Son of God, is the central object, the mediator, and the perfecter of our worship.
