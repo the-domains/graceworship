@@ -1,4 +1,4 @@
-name: Grace Worship
+name: Grace Community Church // Music Ministry
 favicon: null
 layout_spectrum: 0.26294
 typography_spectrum: 0.33138
@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: 'GRACE WORSHIP '
+title: Grace Community Church // Music Ministry
 cta:
   domain: null
   bucket: null
