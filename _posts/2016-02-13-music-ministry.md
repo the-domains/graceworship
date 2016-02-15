@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T03:22:00.011Z'
-dateModified: '2016-02-15T03:21:56.184Z'
+datePublished: '2016-02-15T03:23:51.697Z'
+dateModified: '2016-02-15T03:23:48.726Z'
 author: []
 title: Music Ministry
 sourcePath: _posts/2016-02-13-music-ministry.md
@@ -24,5 +24,6 @@ _type: Article
 
 ---
 # Music Ministry
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0171e501fa98438f6a6a5aa74694627a929c066.png)
 
-Worship is the appropriate Christian response to what God has done for us through Christ. Therefore, Jesus Christ, the Son of God, is the central object, the mediator, and the perfecter of our worship. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3259374fd1357614369da66dff8428a625e25949.png)
+Worship is the appropriate Christian response to what God has done for us through Christ. Therefore, Jesus Christ, the Son of God, is the central object, the mediator, and the perfecter of our worship.
