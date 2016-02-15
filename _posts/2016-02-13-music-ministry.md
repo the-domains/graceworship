@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T03:35:31.237Z'
-dateModified: '2016-02-15T03:35:28.355Z'
+datePublished: '2016-02-15T03:40:28.651Z'
+dateModified: '2016-02-15T03:40:25.941Z'
 author: []
 title: Worship
 sourcePath: _posts/2016-02-13-music-ministry.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3faaae76fa1acb872287c19fb744ce868407f2b3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/361910de7fad57071455a4da24e89c0ed61217c2.jpg)
 
 # Worship
 
