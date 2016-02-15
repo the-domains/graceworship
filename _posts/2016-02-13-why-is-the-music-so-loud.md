@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-13T05:56:49.221Z'
-dateModified: '2016-02-13T05:56:44.431Z'
+datePublished: '2016-02-15T17:26:19.444Z'
+dateModified: '2016-02-15T17:26:17.962Z'
 title: Why is the music so loud?
 author: []
 sourcePath: _posts/2016-02-13-why-is-the-music-so-loud.md
@@ -32,27 +32,27 @@ This is a completely reasonable question, and one we take very seriously. First 
 * _We are looking to provide all musicians and singers with in-ear monitors, which will take 5-6 loudspeakers off stage, greatly reducing the overall stage volume.   ($6,000-10,000)_
 * _Purchase a new drum "cage" to isolate the drums. ($1000)_
 
-The tough part is that the "ideal" volume level is subjective, and relies largely on preference and the sensitivity of the worshipers ears. 
+The tough part is that the "ideal" volume level is subjective, and relies largely on preference and the sensitivity of the worshipers ears. Sometimes it's not even the overall volume that's the problem, and the culprit is a certain frequency that can be harsh. 
 
-Sometimes it's not the overall volume at all that's the problem. It can be certain frequencies that are harsh.  These harsh frequencies are often the result of inexperienced musicians playing average equipment. 
+# The Facts
 
-## The Facts
-
-Music at our Sunday morning services, when there's a full band, often peaks at 95-98dB, although our target is 90-92\.  According to OSHA standards, a volume level of 95dB can be sustained for up to four hours before there is any hearing loss. At Grace, a typical service is 65 minutes with a 40-45 minute sermon. So rest assured,**no matter how loud it seems in the room, your hearing is never in danger.**
+Music at our Sunday morning services, when there's a full band, occasionally peaks at 95-98dB, although our target is 88-92\.  According to OSHA standards, a volume level of 95dB can be sustained for up to four hours before there is any permanent hearing loss. At Grace, a typical service is 65 minutes with a 40-45 minute sermon. So rest assured,**no matter how loud it seems in the room, your hearing is not in danger.**
 
 For the sake of comparison
 
 * Rock concerts usually are 110-115dB
-* Driving your car with the windows down? 85dB. With the radio cranked? 95dB. For this reason, I implore you to not drive with your windows down on the highway. If you're doing that for more than 30 minutes at a time, you could be permanently damaging your hearing!
-* Know someone who's a new parent or do you have a baby in your home? Their cries can easily be over 100dB. 
+* Driving your car with the windows down? 85dB. With the radio cranked? 95dB. 
+* A newborn baby's cry can easily be over 100dB. 
 * When the Hawkeyes score a touchdown, the stadium can easily reach 115dB.
 
-In most of those cases, you wouldn't see someone complaining about volume. 95% of the time, volume is just personal preference and desired experience. For example, a concert or a football game would be pretty lame if it didn't get loud! That's half the experience. 
+No one complains about how loud Kinnick gets after a score. 95% of the time, volume is just personal preference and desired experience. For example, a concert or a football game would be pretty lame if it didn't get loud! That's part of the experience. 
 
 Now one could ask, "What does the Bible have to say about it?" and here's where I get excited!  
 > 
-> Psalm 33:3 - Sing to him a new song; play skillfully on the strings, with**loud**shouts.
+> Psalm 33:3 - Sing to him a new song; play skillfully on the strings, with **loud **shouts.
 
-> Psalm 150:6 - Praise him with sounding cymbals; praise him with**loud clashing cymbals**!
+> Psalm 150:6 - Praise him with sounding cymbals; praise him with **loud clashing cymbals**!
 
-All that to say, if you think it's too loud... talk to us!  We'd love to hear feedback (from you, not the microphones!) so we can continue to refine what we do on Sunday mornings.
+undefined
+
+All that to say, if you still think it's too loud... talk to us!  We'd love to hear feedback so we can continue to refine what we do on Sunday mornings.
