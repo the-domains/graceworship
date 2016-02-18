@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://ftc.co'
-  name: For The Church
-  favicon: 'http://d1nwfrzxhi18dp.cloudfront.net/sites/54ad4d48d2adde8633000006/theme/images/favicon.ico?b5965156b67ce02ea459575d0ce07977'
-  domain: ftc.co
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://ftc.co/resource-library/blog-entries/worship-in-a-selfie-world'
+inLanguage: en
+starred: false
 keywords:
   - worship
   - god
@@ -17,18 +16,21 @@ keywords:
   - niagara
   - redeem
   - decrease
-description: '"One of the most intense times of worship I have ever experienced." This caption came across my Instagram notifications a few weeks back. I never would have expected a picture of a young man standing in front of a mirror in his bathroom with a bewildered smirk on his face.'
-inLanguage: en
+description: ''
+datePublished: '2016-02-18T17:34:43.514Z'
+dateModified: '2016-02-18T17:34:31.799Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://ftc.co/resource-library/blog-entries/worship-in-a-selfie-world'
 title: Worship In A Selfie World
-datePublished: '2016-02-18T15:09:37.366Z'
-dateModified: '2016-02-17T15:27:19.713Z'
 sourcePath: _posts/2016-02-18-worship-in-a-selfie-world.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: For The Church
+  domain: ftc.co
+  url: 'http://ftc.co'
+  favicon: 'http://d1nwfrzxhi18dp.cloudfront.net/sites/54ad4d48d2adde8633000006/theme/images/favicon.ico?b5965156b67ce02ea459575d0ce07977'
 _context: 'http://schema.org'
 _type: MediaObject
 
