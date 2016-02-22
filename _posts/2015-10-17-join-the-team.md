@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How do I get involved in Music Ministry?
-datePublished: '2016-02-15T17:12:03.632Z'
-dateModified: '2016-02-15T17:12:00.619Z'
+datePublished: '2016-02-22T22:24:22.936Z'
+dateModified: '2016-02-22T21:09:35.077Z'
 title: Join
 sourcePath: _posts/2015-10-17-join-the-team.md
 published: true
@@ -25,6 +25,8 @@ _type: WebPage
 # Join
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5974284232f72b1d3ff5a7ea33c0fdeafcc78f4.jpg)
 
+If being part of Music Ministry at Grace is something you feel called to be part of, we are always looking for worshipers to be part of the team. However, due to the public nature of this ministry, we can't just let anyone on stage who wants to be. 
+
 ## MEMBERSHIP
 
 **You must be a member of Grace Community Church _or _actively\* involved in a Grace House Church**.  _Reason: Anyone who takes the stage is considered a representative of and thereby a leader in the church. You are representing Grace both on and off stage. If you aren't committed to Grace as your home church, or aren't willing to make that commitment, then Music Ministry isn't going to be a good fit. _
@@ -33,7 +35,7 @@ _\*attend 75% of your group's meetings, contributing food, leadership, servantho
 
 ## SERVANT LEADERSHIP
 
-**You must serve somewhere else in the church for 6-10 months.**_Reason: The Church needs to see us as servants before it sees us as musicians/singers. _There are many areas in and around the church that need help... children's ministry, youth ministry, coffee booth, MOPS, etc.  Either stop by the Church office, email the Connect Team ([connect@graceb3.org][0]), or fill out this short form: [Connect][1]. 
+**You must have served somewhere else in the church for 6-10 months.**_Reason: The Church needs to see us as servants before it sees us as musicians/singers. _There are many areas in and around the church that need help... children's ministry, youth ministry, coffee booth, MOPS, etc.  Either stop by the Church office, email the Connect Team ([connect@graceb3.org][0]), or fill out this short form: [Connect][1]. 
 
 ## APPLICATION
 
