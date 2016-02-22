@@ -1,41 +1,41 @@
-name: Grace Worship
-favicon: null
-layout_spectrum: 0.74875
-typography_spectrum: 0.33138
+title: Grace Community Church // Music Ministry
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Grace Community Church // Music Ministry
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 1
+  brandStrength: 0.25
+  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#3c2d18'
     - '#026536'
     - '#8cc63e'
     - '#959088'
-  brandStrength: 0.25
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Grace Worship
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.33138
+layout_spectrum: 1
