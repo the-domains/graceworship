@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How do I get involved in Music Ministry?
-datePublished: '2016-02-22T22:24:22.936Z'
-dateModified: '2016-02-22T21:09:35.077Z'
+datePublished: '2016-03-05T05:03:39.681Z'
+dateModified: '2016-03-05T05:03:39.272Z'
 title: Join
 sourcePath: _posts/2015-10-17-join-the-team.md
 published: true
