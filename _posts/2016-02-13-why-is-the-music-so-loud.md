@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-15T17:26:19.444Z'
-dateModified: '2016-02-15T17:26:17.962Z'
+description: "This is a completely reasonable question, and one we take very seriously.\_First of all, none of us are looking to blow anyone's eardrums out, or to be loud just for the sake of being loud. Volume is something we are consistently trying to refine and navigate well. A few projects we are currently working on to improve the sound at Grace:"
+datePublished: '2016-03-10T05:23:40.761Z'
+dateModified: '2016-03-10T05:23:30.838Z'
 title: Why is the music so loud?
 author: []
 sourcePath: _posts/2016-02-13-why-is-the-music-so-loud.md
@@ -36,7 +36,7 @@ The tough part is that the "ideal" volume level is subjective, and relies largel
 
 # The Facts
 
-Music at our Sunday morning services, when there's a full band, occasionally peaks at 95-98dB, although our target is 88-92\.  According to OSHA standards, a volume level of 95dB can be sustained for up to four hours before there is any permanent hearing loss. At Grace, a typical service is 65 minutes with a 40-45 minute sermon. So rest assured,**no matter how loud it seems in the room, your hearing is not in danger.**
+Music at our Sunday morning services, when there's a full band, occasionally peaks at 95-98dB, although our target is 88-92\.  According to OSHA standards, a volume level of 95dB can be sustained for up to four hours before there is any permanent hearing loss. At Grace, a typical service is 65 minutes with a 40-45 minute sermon. So rest assured that no matter how loud it seems in the room, your hearing is not in danger.
 
 For the sake of comparison
 
