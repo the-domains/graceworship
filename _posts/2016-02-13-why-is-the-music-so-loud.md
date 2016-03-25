@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This is a completely reasonable question, and one we take very seriously.\_First of all, none of us are looking to blow anyone's eardrums out, or to be loud just for the sake of being loud. Volume is something we are consistently trying to refine and navigate well. A few projects we are currently working on to improve the sound at Grace:"
-datePublished: '2016-03-15T02:23:17.158Z'
-dateModified: '2016-03-10T05:23:45.391Z'
+datePublished: '2016-03-25T20:31:58.580Z'
+dateModified: '2016-03-15T02:23:25.403Z'
 title: Why is the music so loud?
 author: []
 sourcePath: _posts/2016-02-13-why-is-the-music-so-loud.md
