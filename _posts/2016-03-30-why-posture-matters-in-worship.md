@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://ftc.co'
-  name: For The Church
-  favicon: 'http://d1nwfrzxhi18dp.cloudfront.net/sites/54ad4d48d2adde8633000006/theme/images/favicon.ico?b5965156b67ce02ea459575d0ce07977'
-  domain: ftc.co
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://ftc.co/resource-library/blog-entries/why-posture-matters-in-worship'
+inLanguage: en
+starred: false
 keywords:
   - worshiped
   - posture
@@ -18,17 +17,20 @@ keywords:
   - shouts
   - wants
 description: "Growing up, I was Michael Jordan's biggest fan. I regularly wrote him to ask for his autograph and invite him to my birthday parties. I was convinced I would one day be great like him, so finally after much pleading, my parents sent me to basketball camp when I was a pre-teen."
-inLanguage: en
+datePublished: '2016-04-02T05:28:22.029Z'
+dateModified: '2016-04-02T05:28:17.775Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://ftc.co/resource-library/blog-entries/why-posture-matters-in-worship'
 title: 'Why Posture Matters in Worship:'
-datePublished: '2016-03-30T16:14:23.734Z'
-dateModified: '2016-03-30T15:02:20.310Z'
 sourcePath: _posts/2016-03-30-why-posture-matters-in-worship.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: For The Church
+  domain: ftc.co
+  url: 'http://ftc.co'
+  favicon: 'http://d1nwfrzxhi18dp.cloudfront.net/sites/54ad4d48d2adde8633000006/theme/images/favicon.ico?b5965156b67ce02ea459575d0ce07977'
 _context: 'http://schema.org'
 _type: MediaObject
 
