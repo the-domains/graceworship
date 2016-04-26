@@ -3,7 +3,6 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
 keywords:
   - worshiped
   - posture
@@ -16,8 +15,8 @@ keywords:
   - shouts
   - wants
 description: "Growing up, I was Michael Jordan's biggest fan. I regularly wrote him to ask for his autograph and invite him to my birthday parties. I was convinced I would one day be great like him, so finally after much pleading, my parents sent me to basketball camp when I was a pre-teen."
-datePublished: '2016-04-22T22:54:27.599Z'
-dateModified: '2016-04-13T03:29:35.694Z'
+datePublished: '2016-04-26T23:39:17.838Z'
+dateModified: '2016-04-22T22:54:36.719Z'
 author: []
 related: []
 app_links: []
@@ -30,6 +29,7 @@ publisher:
   domain: ftc.co
   url: 'http://ftc.co'
   favicon: 'http://d1nwfrzxhi18dp.cloudfront.net/sites/54ad4d48d2adde8633000006/theme/images/favicon.ico?b5965156b67ce02ea459575d0ce07977'
+starred: false
 url: why-posture-matters-in-worship/index.html
 _context: 'http://schema.org'
 _type: MediaObject
