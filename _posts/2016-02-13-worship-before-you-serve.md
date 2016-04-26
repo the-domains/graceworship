@@ -1,15 +1,16 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-13T05:41:42.405Z'
-dateModified: '2016-02-13T05:41:39.945Z'
+description: 'Luke 10:38-42 tells the story of young woman named Martha who, at some point in her day, found out that Jesus and his disciples were coming through the area and needed a place to stay. John 11 tells us Jesus was good friends with this family. Martha immediately accepted the invitation, and at that point, she and her sister “went into ministry” to serve Jesus.'
+datePublished: '2016-04-26T23:46:43.489Z'
+dateModified: '2016-04-26T23:44:06.172Z'
 title: Worship Before You Serve
-author: []
+author:
+  - name: Worship Before You Serve
+    url: ''
 sourcePath: _posts/2016-02-13-worship-before-you-serve.md
 published: true
 authors: []
@@ -18,8 +19,9 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: worship-before-you-serve/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Worship Before You Serve
@@ -38,7 +40,7 @@ Now Jesus isn't saying Mary's better, or that Martha is the wicked servant that 
 
 > Martha thinks Jesus needs her ministry. Mary thinks her ministry needs Jesus. 
 
-I'll admit that in my own ministry over the past three years of Planning Center, scheduling, staff meetings, equipment upgrades, building problems, etc... I became Martha.  Even when I dreamt about the future of Music Ministry, I got distracted by Music Ministry itself and ended up thinking that Jesus needs _us _to change things around Grace Community Church if he's going to accomplish his kingdom "on earth as it is in heaven." 
+I'll admit that in my own ministry over the past three years of Planning Center, scheduling, staff meetings, equipment upgrades, building problems, etc... I became Martha. Even when I dreamt about the future of Music Ministry, I got distracted by Music Ministry itself and ended up thinking that Jesus needs _us _to change things around Grace Community Church if he's going to accomplish his kingdom "on earth as it is in heaven." 
 
 I quickly start to think I/we could accomplish so much more for God if:
 
