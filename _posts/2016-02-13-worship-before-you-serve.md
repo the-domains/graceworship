@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Luke 10:38-42 tells the story of young woman named Martha who, at some point in her day, found out that Jesus and his disciples were coming through the area and needed a place to stay. John 11 tells us Jesus was good friends with this family. Martha immediately accepted the invitation, and at that point, she and her sister “went into ministry” to serve Jesus.'
-datePublished: '2016-04-26T23:46:43.489Z'
-dateModified: '2016-04-26T23:44:06.172Z'
+datePublished: '2016-04-27T02:40:04.261Z'
+dateModified: '2016-04-27T02:39:55.468Z'
 title: Worship Before You Serve
 author:
   - name: Worship Before You Serve
@@ -21,7 +21,7 @@ publisher:
   favicon: null
 starred: false
 url: worship-before-you-serve/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Worship Before You Serve
