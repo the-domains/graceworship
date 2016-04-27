@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "This is a completely reasonable question, and one we take very seriously. First of all, none of us are looking to blow anyone's eardrums out, or to be loud just for the sake of being loud. Volume is something we are consistently trying to refine and navigate well. A few projects we are currently working on to improve the sound at Grace:"
-datePublished: '2016-04-22T23:03:42.205Z'
-dateModified: '2016-04-22T23:03:31.451Z'
+description: ''
+datePublished: '2016-04-27T02:22:45.259Z'
+dateModified: '2016-04-27T02:22:23.353Z'
 title: The Facts
 author:
   - name: ''
@@ -24,15 +24,13 @@ url: why-is-the-music-so-loud/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9deb93d2-8984-4b86-9219-a4df4c7b1f92.jpg)
-
 # Why is the music so loud?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9deb93d2-8984-4b86-9219-a4df4c7b1f92.jpg)
 
 This is a completely reasonable question, and one we take very seriously. First of all, none of us are looking to blow anyone's eardrums out, or to be loud just for the sake of being loud. Volume is something we are consistently trying to refine and navigate well. A few projects we are currently working on to improve the sound at Grace:
 
-* _We are in the process of building and installing acoustic sound panels around the auditorium to help deaden the noise. ($1000)_
+* _We recently installed acoustic sound panels around the auditorium to help deaden the noise._
 * _We are looking to provide all musicians and singers with in-ear monitors, which will take 5-6 loudspeakers off stage, greatly reducing the overall stage volume. ($6,000-10,000)_
-* _Purchase a new drum "cage" to isolate the drums. ($1000)_
 
 The tough part is that the "ideal" volume level is subjective, and relies largely on preference and the sensitivity of the worshipers ears. 
 
@@ -50,14 +48,12 @@ For the sake of comparison:
 * A baby's cry can easily be over 100dB. 
 * When the Hawkeyes score a touchdown, the stadium can easily reach 115dB.
 
-No one complains about how loud Kinnick gets after a score. 95% of the time, volume is just personal preference and desired experience. For example, a concert or a football game would be pretty lame if it didn't get loud! That's part of the experience. 
+95% of the time, volume is just personal preference and desired experience. For example, a concert or a football game would be pretty lame if it didn't get loud! That's part of the experience. On Sunday mornings, our target is the music is loud enough to be energetic, but quiet enough that you can hear other voices.
 
 Now one could ask, "What does the Bible have to say about it?" and here's where I get excited! 
 > 
 > Psalm 33:3 - Sing to him a new song; play skillfully on the strings, with **loud **shouts.
 
 > Psalm 150:6 - Praise him with sounding cymbals; praise him with **loud clashing cymbals**!
-
-undefined
 
 All that to say, if you still think it's too loud... talk to us! We'd love to hear feedback so we can continue to refine what we do on Sunday mornings.
