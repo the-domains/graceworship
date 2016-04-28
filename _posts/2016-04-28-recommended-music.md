@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Here are some new tunes for you to check out:'
-datePublished: '2016-04-28T03:39:23.107Z'
-dateModified: '2016-04-28T03:39:22.629Z'
+datePublished: '2016-04-28T03:56:13.855Z'
+dateModified: '2016-04-28T03:56:13.190Z'
 title: Recommended Music
 author: []
 sourcePath: _posts/2016-04-28-recommended-music.md
