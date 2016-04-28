@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'I’ve been leading worship since I was 15.  I’ve wanted to be a full-time worship leader since I was 17 or 18. In that sense, I’m living my dream. '
-datePublished: '2016-04-27T02:39:14.216Z'
-dateModified: '2016-04-27T02:19:12.471Z'
+datePublished: '2016-04-28T03:56:20.509Z'
+dateModified: '2016-04-28T03:56:19.980Z'
 title: When I Want To Quit
 author: []
 sourcePath: _posts/2016-04-26-when-i-want-to-quit.md
