@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: How do I get involved in Music Ministry?
-datePublished: '2016-03-05T05:03:39.681Z'
-dateModified: '2016-03-05T05:03:39.272Z'
-title: Join
+description: "You must be a member of Grace Community Church or actively* involved in a Grace House Church. Reason: Anyone who takes the stage is considered a representative of and thereby a leader in the church. You are representing Grace both on and off stage. If you aren't committed to Grace as your home church, or aren't willing to make that commitment, then Music Ministry isn't going to be a good fit. "
+datePublished: '2016-04-28T03:58:28.094Z'
+dateModified: '2016-04-28T03:58:27.675Z'
+title: ''
 sourcePath: _posts/2015-10-17-join-the-team.md
 published: true
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: join-the-team/index.html
 _type: WebPage
 
@@ -29,13 +31,13 @@ If being part of Music Ministry at Grace is something you feel called to be part
 
 ## MEMBERSHIP
 
-**You must be a member of Grace Community Church _or _actively\* involved in a Grace House Church**.  _Reason: Anyone who takes the stage is considered a representative of and thereby a leader in the church. You are representing Grace both on and off stage. If you aren't committed to Grace as your home church, or aren't willing to make that commitment, then Music Ministry isn't going to be a good fit. _
+**You must be a member of Grace Community Church _or _actively\* involved in a Grace House Church**. _Reason: Anyone who takes the stage is considered a representative of and thereby a leader in the church. You are representing Grace both on and off stage. If you aren't committed to Grace as your home church, or aren't willing to make that commitment, then Music Ministry isn't going to be a good fit. _
 
 _\*attend 75% of your group's meetings, contributing food, leadership, servanthood, etc._
 
 ## SERVANT LEADERSHIP
 
-**You must have served somewhere else in the church for 6-10 months.**_Reason: The Church needs to see us as servants before it sees us as musicians/singers. _There are many areas in and around the church that need help... children's ministry, youth ministry, coffee booth, MOPS, etc.  Either stop by the Church office, email the Connect Team ([connect@graceb3.org][0]), or fill out this short form: [Connect][1]. 
+**You must have served somewhere else in the church for 6-10 months.**_Reason: The Church needs to see us as servants before it sees us as musicians/singers. _There are many areas in and around the church that need help... children's ministry, youth ministry, coffee booth, MOPS, etc. Either stop by the Church office, email the Connect Team ([connect@graceb3.org][0]), or fill out this short form: [Connect][1]. 
 
 ## APPLICATION
 
