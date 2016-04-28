@@ -15,8 +15,8 @@ keywords:
   - shouts
   - wants
 description: "Growing up, I was Michael Jordan's biggest fan. I regularly wrote him to ask for his autograph and invite him to my birthday parties. I was convinced I would one day be great like him, so finally after much pleading, my parents sent me to basketball camp when I was a pre-teen."
-datePublished: '2016-04-26T23:39:17.838Z'
-dateModified: '2016-04-22T22:54:36.719Z'
+datePublished: '2016-04-28T03:56:29.024Z'
+dateModified: '2016-04-28T03:56:28.575Z'
 author: []
 related: []
 app_links: []
