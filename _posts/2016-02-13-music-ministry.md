@@ -6,12 +6,12 @@ isBasedOnUrl: 'urn:uuid:9554845b-9119-4fc6-bf29-e1279a43be28'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T03:01:17.459Z'
-dateModified: '2016-04-27T02:14:14.790Z'
+datePublished: '2016-04-28T03:58:08.438Z'
+dateModified: '2016-04-28T03:58:07.114Z'
 author:
   - name: ''
     url: ''
-title: ''
+title: Music Ministry
 sourcePath: _posts/2016-02-13-music-ministry.md
 published: true
 authors: []
