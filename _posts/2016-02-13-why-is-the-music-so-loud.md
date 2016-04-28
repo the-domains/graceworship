@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-27T02:22:45.259Z'
-dateModified: '2016-04-27T02:22:23.353Z'
+description: "The Bible doesn't say our praise HAS to be loud, but it sure sounds like it should be! "
+datePublished: '2016-04-28T03:58:01.721Z'
+dateModified: '2016-04-28T03:58:01.019Z'
 title: The Facts
 author:
   - name: ''
@@ -55,5 +55,7 @@ Now one could ask, "What does the Bible have to say about it?" and here's where 
 > Psalm 33:3 - Sing to him a new song; play skillfully on the strings, with **loud **shouts.
 
 > Psalm 150:6 - Praise him with sounding cymbals; praise him with **loud clashing cymbals**!
+
+The Bible doesn't say our praise HAS to be loud, but it sure sounds like it should be! 
 
 All that to say, if you still think it's too loud... talk to us! We'd love to hear feedback so we can continue to refine what we do on Sunday mornings.
