@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Here are some new tunes for you to check out:'
-datePublished: '2016-05-02T13:08:20.452Z'
-dateModified: '2016-05-02T13:08:06.382Z'
+datePublished: '2016-05-02T13:10:01.844Z'
+dateModified: '2016-05-02T13:09:42.320Z'
 title: Recommended Music
 author: []
 sourcePath: _posts/2016-04-28-recommended-music.md
@@ -19,7 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: recommended-music/index.html
+_type: Article
 
 ---
 # Recommended Music
