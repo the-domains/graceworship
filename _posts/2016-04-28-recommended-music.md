@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Here are some new tunes for you to check out:'
-datePublished: '2016-05-02T00:40:53.537Z'
-dateModified: '2016-05-01T23:21:50.607Z'
+datePublished: '2016-05-02T13:07:57.554Z'
+dateModified: '2016-05-02T13:06:55.328Z'
 title: Recommended Music
 author: []
 sourcePath: _posts/2016-04-28-recommended-music.md
