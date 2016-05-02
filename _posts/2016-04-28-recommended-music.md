@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Here are some new tunes for you to check out:'
-datePublished: '2016-05-01T23:09:45.274Z'
-dateModified: '2016-05-01T23:09:43.265Z'
+datePublished: '2016-05-02T00:40:53.537Z'
+dateModified: '2016-05-01T23:21:50.607Z'
 title: Recommended Music
 author: []
 sourcePath: _posts/2016-04-28-recommended-music.md
@@ -27,5 +27,4 @@ _type: Blurb
 Here are some new tunes for you to check out:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/542075e7-d1b2-41ae-bc58-df575ef8f478.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f34154ee-7682-485c-a704-b722b0050fa0.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f570142-b3cf-409f-9009-7e46518deeaf.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3f594a7-969c-42d2-8b77-529d02b5b62e.png)
