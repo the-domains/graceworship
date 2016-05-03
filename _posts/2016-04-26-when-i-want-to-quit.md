@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T14:21:30.362Z'
-dateModified: '2016-05-03T14:21:10.395Z'
+datePublished: '2016-05-03T14:25:33.923Z'
+dateModified: '2016-05-03T14:21:38.907Z'
 title: When I Want To Quit
 author: []
 sourcePath: _posts/2016-04-26-when-i-want-to-quit.md
@@ -36,7 +36,7 @@ I spend a lot of them recalling every word I said that morning could have been s
 
 I would guess some of you have had similar feelings at times.
 
-But without fail, I hear the Spirit whisper into my pity party,  
+But without fail, I hear the Spirit whisper into my pity party,
 
 > Worship isn't about you, Rodney. Your job is to set the table. It's my job to make people want to eat. 
 
