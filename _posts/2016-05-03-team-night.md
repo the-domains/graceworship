@@ -4,28 +4,29 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: WHAT?
-datePublished: '2016-05-03T02:13:43.668Z'
-dateModified: '2016-05-03T02:11:37.093Z'
-title: Team Night
+description: >-
+  Team Nights are quarterly Music Ministry gatherings for growth and fellowship.
+  These are specifically designed to bring a new level of friendship and team
+  camaraderie among Praise Team members from both campuses as well as
+  instruction in areas where we can grow together.
+datePublished: '2016-06-10T19:26:46.903Z'
+dateModified: '2016-06-10T19:26:40.931Z'
+sourcePath: _posts/2016-05-03-team-night.md
 author:
   - name: ''
     url: ''
+title: Team Night
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
-sourcePath: _posts/2016-05-03-team-night.md
-published: true
 url: team-night/index.html
 _type: Article
 
 ---
 # Team Night
 
-WHAT?
+Team Nights are quarterly Music Ministry gatherings for growth and fellowship. These are specifically designed to bring a new level of friendship and team camaraderie among Praise Team members from both campuses as well as instruction in areas where we can grow together.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4eba17928718121a07178f097debc0ff39b2032.jpg)
+![The Grace Downtown Campus worship leader, Steve Scheperle, leading us through a discussion on transitions. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e249d755-42b1-4efc-a43c-1363f26ce49e.jpg)
 
-Team Nights are quarterly Music Ministry gatherings for growth and fellowship. These are specifically designed to bring a new level of friendship and team camaraderie among Praise Team members as well as instruct us in areas we can grow together. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/550b0108-1c8e-4ef2-9623-0c811b18996a.jpg)
+The next Team Night is August 12!
