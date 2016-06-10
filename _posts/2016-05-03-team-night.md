@@ -9,8 +9,8 @@ description: >-
   These are specifically designed to bring a new level of friendship and team
   camaraderie among Praise Team members from both campuses as well as
   instruction in areas where we can grow together.
-datePublished: '2016-06-10T19:26:46.903Z'
-dateModified: '2016-06-10T19:26:40.931Z'
+datePublished: '2016-06-10T19:33:47.756Z'
+dateModified: '2016-06-10T19:26:51.778Z'
 sourcePath: _posts/2016-05-03-team-night.md
 author:
   - name: ''
