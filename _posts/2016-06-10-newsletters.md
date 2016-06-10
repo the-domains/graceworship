@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-10T19:33:02.350Z'
+datePublished: '2016-06-10T19:33:09.253Z'
 sourcePath: _posts/2016-06-10-newsletters.md
 inFeed: true
 isBasedOnUrl: 'https://drive.google.com/open?id=0B7ucJGbqlQO5dFdCSHR4SUxZVHc'
@@ -7,13 +7,13 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-06-10T19:33:01.977Z'
+dateModified: '2016-06-10T19:33:08.919Z'
 title: NEWSLETTERS
 publisher: null
 description: ''
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 _type: MediaObject
 
 ---
