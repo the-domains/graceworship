@@ -4,15 +4,8 @@
         <description><![CDATA[Music Ministry]]></description>
         <link>https://thegrid.ai/graceworship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 20:58:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 20:58:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graceworship/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[June 5]]></title>
-            <description><![CDATA[<article><h1>June 5</h1><p>Leader: Rodney Gehman</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6847dc49-427e-41b7-9971-139d60d5a8d2.png"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=SPCLSjMGggE&amp;index=3&amp;list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4</link>
-            <guid isPermaLink="false">0c2015e7-f092-4fb7-a1eb-9ca5bc5ceae3</guid>
-            <pubDate>Fri, 10 Jun 2016 20:58:43 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[NEWSLETTERS]]></title>
             <description><![CDATA[<article><h1>NEWSLETTERS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce2c68815e2649ee1efb30e98fe7f59ab8e6c711.jpg"></article>]]></description>
@@ -26,6 +19,13 @@
             <link>https://thegrid.ai/graceworship/team-night/index.html</link>
             <guid isPermaLink="false">7397db00-b8ea-4fcb-b522-274293940fb2</guid>
             <pubDate>Fri, 10 Jun 2016 19:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[June Videos]]></title>
+            <description><![CDATA[<article><h1>June Videos</h1><p>Leader: Rodney Gehman</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6847dc49-427e-41b7-9971-139d60d5a8d2.png"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=SPCLSjMGggE&amp;index=3&amp;list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4</link>
+            <guid isPermaLink="false">0c2015e7-f092-4fb7-a1eb-9ca5bc5ceae3</guid>
+            <pubDate>Wed, 08 Jun 2016 18:04:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
