@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-10T20:58:41.394Z'
+datePublished: '2016-06-14T21:57:06.390Z'
 sourcePath: _posts/2016-06-10-newsletters.md
 inFeed: true
 isBasedOnUrl: 'https://drive.google.com/open?id=0B7ucJGbqlQO5dFdCSHR4SUxZVHc'
@@ -7,7 +7,7 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-06-10T20:58:09.080Z'
+dateModified: '2016-06-14T21:52:57.343Z'
 title: NEWSLETTERS
 publisher: null
 description: ''
@@ -17,7 +17,7 @@ starred: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c14037c6-a3a7-4a70-b3ea-a8b3f9dedb09.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce2c68815e2649ee1efb30e98fe7f59ab8e6c711.jpg)
 
 # NEWSLETTERS
 
