@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://drive.google.com/open?id=0B7ucJGbqlQO5dFdCSHR4SUxZVHc'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-16T23:16:40.039Z'
-dateModified: '2016-06-16T23:16:15.099Z'
+datePublished: '2016-06-16T23:16:55.522Z'
+dateModified: '2016-06-16T23:16:49.390Z'
 sourcePath: _posts/2016-06-10-newsletters.md
 author: []
 title: NEWSLETTERS
