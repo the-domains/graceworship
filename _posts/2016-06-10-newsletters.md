@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-06-14T21:57:06.390Z'
-sourcePath: _posts/2016-06-10-newsletters.md
 inFeed: true
-isBasedOnUrl: 'https://drive.google.com/open?id=0B7ucJGbqlQO5dFdCSHR4SUxZVHc'
-authors: []
 hasPage: false
-keywords: []
-author: []
-dateModified: '2016-06-14T21:52:57.343Z'
-title: NEWSLETTERS
-publisher: null
-description: ''
-inLanguage: null
 inNav: false
+isBasedOnUrl: 'https://drive.google.com/open?id=0B7ucJGbqlQO5dFdCSHR4SUxZVHc'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-06-16T23:16:40.039Z'
+dateModified: '2016-06-16T23:16:15.099Z'
+sourcePath: _posts/2016-06-10-newsletters.md
+author: []
+title: NEWSLETTERS
+authors: []
+publisher: null
 starred: false
 _type: MediaObject
 
@@ -21,7 +21,7 @@ _type: MediaObject
 
 # NEWSLETTERS
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e6d1ecbf2b2fadfb22e82c385860e28c2dc531e.jpg" /><h1>June.pdf</h1></article>
+<article style=""><h1>June.pdf</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e6d1ecbf2b2fadfb22e82c385860e28c2dc531e.jpg" /></article>
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99f79f41d5fbc83474f65f536140fa5b90c12fc8.jpg" /><h1>May.pdf</h1></article>
 
