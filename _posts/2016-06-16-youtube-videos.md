@@ -1,11 +1,11 @@
 ---
 description: ''
-dateModified: '2016-06-16T23:11:40.835Z'
-datePublished: '2016-06-16T23:11:57.185Z'
+dateModified: '2016-06-16T23:13:50.542Z'
+datePublished: '2016-06-16T23:14:39.320Z'
 title: YouTube Videos
 author: []
-starred: false
 sourcePath: _posts/2016-06-16-youtube-videos.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
