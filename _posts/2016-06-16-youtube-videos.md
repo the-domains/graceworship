@@ -1,20 +1,20 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-16T23:15:42.593Z'
-dateModified: '2016-06-16T23:15:34.511Z'
+datePublished: '2016-06-16T23:17:34.021Z'
+dateModified: '2016-06-16T23:17:31.460Z'
 title: YouTube Videos
 author: []
 sourcePath: _posts/2016-06-16-youtube-videos.md
 authors: []
 publisher: null
 starred: false
-_type: Blurb
+url: youtube-videos/index.html
+_type: WebPage
 
 ---
 # YouTube Videos
