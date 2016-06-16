@@ -1,20 +1,20 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://drive.google.com/open?id=0B7ucJGbqlQO5dFdCSHR4SUxZVHc'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-16T23:16:55.522Z'
-dateModified: '2016-06-16T23:16:49.390Z'
+datePublished: '2016-06-16T23:17:39.459Z'
+dateModified: '2016-06-16T23:17:18.197Z'
 sourcePath: _posts/2016-06-10-newsletters.md
 author: []
 title: NEWSLETTERS
 authors: []
 publisher: null
 starred: false
-_type: MediaObject
+url: newsletters/index.html
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce2c68815e2649ee1efb30e98fe7f59ab8e6c711.jpg)
