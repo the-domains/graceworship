@@ -1,26 +1,26 @@
 ---
-datePublished: '2016-06-14T21:57:09.465Z'
-sourcePath: _posts/2016-05-03-team-night.md
-inFeed: true
-authors: []
+inFeed: false
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
-author:
-  - name: ''
-    url: ''
-dateModified: '2016-06-14T21:52:32.509Z'
-title: Team Night
-publisher: null
 description: >-
   Team Nights are quarterly Music Ministry gatherings for growth and fellowship.
   These are specifically designed to bring a new level of friendship and team
   camaraderie among Praise Team members from both campuses as well as
   instruction in areas where we can grow together.
-inLanguage: null
-inNav: true
+datePublished: '2016-06-16T23:19:25.618Z'
+dateModified: '2016-06-16T23:19:25.072Z'
+sourcePath: _posts/2016-05-03-team-night.md
+author:
+  - name: ''
+    url: ''
+title: Team Night
+authors: []
+publisher: null
 starred: false
 url: team-night/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Team Night
