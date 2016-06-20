@@ -1,26 +1,24 @@
 ---
-datePublished: '2016-06-20T23:19:32.585Z'
-sourcePath: _posts/2016-06-10-newsletters.md
 inFeed: false
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-06-20T23:17:41.465Z'
-title: Newsletters
-publisher: null
-description: ''
-inLanguage: null
 inNav: true
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-06-20T23:47:00.157Z'
+dateModified: '2016-06-20T23:46:58.837Z'
+sourcePath: _posts/2016-06-10-newsletters.md
+author:
+  - name: ''
+    url: ''
+title: June.pdf
+authors: []
+publisher: null
 starred: false
 url: newsletters/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce2c68815e2649ee1efb30e98fe7f59ab8e6c711.jpg)
-
-# Newsletters
-
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e6d1ecbf2b2fadfb22e82c385860e28c2dc531e.jpg" /><h1>June.pdf</h1></article>
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99f79f41d5fbc83474f65f536140fa5b90c12fc8.jpg" /><h1>May.pdf</h1></article>
