@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Grace Alone // Your Great Name // Great Are You Lord // Come Behold The
   Wondrous Mystery
-datePublished: '2016-06-29T21:51:58.628Z'
-dateModified: '2016-06-29T21:51:27.852Z'
+datePublished: '2016-06-29T21:54:44.136Z'
+dateModified: '2016-06-29T21:54:35.857Z'
 sourcePath: _posts/2016-06-16-youtube-videos.md
 author:
   - name: GraceB3
