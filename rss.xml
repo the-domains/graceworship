@@ -4,7 +4,7 @@
         <description><![CDATA[Music Ministry]]></description>
         <link>https://thegrid.ai/graceworship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 21:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 21:52:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graceworship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[YouTube Videos]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/graceworship/june/index.html</link>
             <guid isPermaLink="false">a3ecb426-7718-4725-b3b5-6ceee2176b4c</guid>
             <pubDate>Wed, 29 Jun 2016 20:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JANUARY]]></title>
+            <description><![CDATA[<article><h1>JANUARY</h1><p>This video is about Jan 31</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a72a04fbdcdcabd1bb0319eb323ef916/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FppYEHq5OfTg%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=xvHc5QqPdQg&amp;index=24&amp;list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4</link>
+            <guid isPermaLink="false">51653c37-4acd-4be0-b772-16a83c7b35f6</guid>
+            <pubDate>Wed, 29 Jun 2016 20:23:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
