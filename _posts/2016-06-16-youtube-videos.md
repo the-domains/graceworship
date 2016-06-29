@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-06-29T20:02:35.190Z'
-sourcePath: _posts/2016-06-16-youtube-videos.md
 inFeed: false
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-06-29T20:02:11.342Z'
-title: June 2016
-publisher: null
-description: ''
-inLanguage: null
 inNav: false
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-06-29T20:13:33.095Z'
+dateModified: '2016-06-29T20:07:56.803Z'
+sourcePath: _posts/2016-06-16-youtube-videos.md
+author: []
+title: June 2016
+authors: []
+publisher: null
 starred: false
 url: youtube-videos/index.html
 _type: Blurb
