@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-29T20:15:48.288Z'
-dateModified: '2016-06-29T20:15:44.529Z'
+datePublished: '2016-06-29T20:17:18.536Z'
+dateModified: '2016-06-29T20:15:55.905Z'
 sourcePath: _posts/2016-06-16-youtube-videos.md
 author: []
 title: June 2016
