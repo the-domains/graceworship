@@ -31,10 +31,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - id: a3ecb426-7718-4725-b3b5-6ceee2176b4c
-    url: 2016-06-29-june.html
-    name: YouTube Videos
-    type: content
   - id: 'https://www.youtube.com/playlist?list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4'
     url: 'https://www.youtube.com/playlist?list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4'
     name: YouTube Videos
