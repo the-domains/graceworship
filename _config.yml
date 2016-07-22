@@ -30,11 +30,7 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - id: 'https://www.youtube.com/playlist?list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4'
-    url: 'https://www.youtube.com/playlist?list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4'
-    name: YouTube Videos
-    type: external
+navigation: []
 favicon: null
 collections:
   - index:
