@@ -4,7 +4,7 @@
         <description><![CDATA[Music Ministry]]></description>
         <link>https://thegrid.ai/graceworship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 21:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 21:33:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graceworship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Worship ]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Fri, 22 Jul 2016 21:30:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[WORSHIP QUOTABLES]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b389752-00e9-4187-885a-ef888287faaa.jpg">]]></description>
+            <link>https://worr.wordpress.com</link>
+            <guid isPermaLink="false">590bce93-fbe7-4504-9e46-07355fc91115</guid>
+            <pubDate>Fri, 22 Jul 2016 21:32:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[YouTube Videos]]></title>
             <description><![CDATA[<article><h1>YouTube Videos</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3bac3e91b29c016fc184d1dbaa3725f0/croprotate.jpg?cropheight=3265&cropwidth=4896&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F908ee0f4-3850-40c9-aba5-1600a6364050.jpg&x=0&y=0"></article>]]></description>
             <link>https://www.youtube.com/playlist?list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4</link>
             <guid isPermaLink="false">26c93d39-9fea-4daf-8fe7-c4cc4fc18ccc</guid>
             <pubDate>Fri, 22 Jul 2016 21:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WORSHIP QUOTABLES]]></title>
-            <description><![CDATA[<article><h1>WORSHIP QUOTABLES</h1><p>If your heart is not amazed by the grace of God, and your mind is not gripped by the truth of God, and your sense of right and wrong is not permeated by the justice of God, and your faith is not resting in the power of God, and your</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
-            <link>https://worr.wordpress.com</link>
-            <guid isPermaLink="false">590bce93-fbe7-4504-9e46-07355fc91115</guid>
-            <pubDate>Fri, 22 Jul 2016 21:18:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
