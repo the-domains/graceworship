@@ -35,6 +35,10 @@ navigation:
     url: 'https://www.youtube.com/playlist?list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4'
     name: YouTube Videos
     type: external
+  - id: 5dd38c38-440a-4176-8adf-8e6ccec038d8
+    url: 2016-02-15-worship.html
+    name: 'Worship '
+    type: content
 favicon: null
 collections:
   - index:
