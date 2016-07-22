@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T21:32:57.114Z'
+datePublished: '2016-07-22T21:43:31.743Z'
 sourcePath: _posts/2016-07-22-worship-quotables.md
 isBasedOnUrl: 'https://worr.wordpress.com'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://worr.wordpress.com/author/ronmangem/'
     avatar: {}
 via: {}
-dateModified: '2016-07-22T21:32:56.626Z'
+dateModified: '2016-07-22T21:43:31.257Z'
 title: ''
 app_links: []
 publisher: {}
