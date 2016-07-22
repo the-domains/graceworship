@@ -35,6 +35,10 @@ navigation:
     url: 2016-06-29-june.html
     name: YouTube Videos
     type: content
+  - id: 'https://www.youtube.com/playlist?list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4'
+    url: 'https://www.youtube.com/playlist?list=PL3LjNDUIX9lFuX1gAW6AdHlv8sydqqgR4'
+    name: YouTube Videos
+    type: external
 favicon: null
 collections:
   - index:
