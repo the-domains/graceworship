@@ -1,14 +1,7 @@
 ---
-author:
-  - name: ronmanwri
-    url: 'https://worr.wordpress.com/author/ronmangem/'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://worr.wordpress.com'
-  name: WORSHIP QUOTABLES
-  favicon: 'https://s2.wp.com/i/favicon.ico'
-  domain: worr.wordpress.com
+datePublished: '2016-07-22T21:32:57.114Z'
+sourcePath: _posts/2016-07-22-worship-quotables.md
+isBasedOnUrl: 'https://worr.wordpress.com'
 keywords:
   - god
   - worship
@@ -20,19 +13,19 @@ keywords:
   - holy
   - devotions
   - jesus
-description: >-
-  If your heart is not amazed by the grace of God, and your mind is not gripped
-  by the truth of God, and your sense of right and wrong is not permeated by the
-  justice of God, and your faith is not resting in the power of God, and your
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'https://worr.wordpress.com'
-title: WORSHIP QUOTABLES
-datePublished: '2016-07-22T21:18:25.351Z'
-dateModified: '2016-07-22T21:18:04.825Z'
+related: []
+author:
+  - name: ronmanwri
+    url: 'https://worr.wordpress.com/author/ronmangem/'
+    avatar: {}
 via: {}
+dateModified: '2016-07-22T21:32:56.626Z'
+title: ''
+app_links: []
+publisher: {}
+description: ''
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-22-worship-quotables.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -40,4 +33,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>WORSHIP QUOTABLES</h1><p>If your heart is not amazed by the grace of God, and your mind is not gripped by the truth of God, and your sense of right and wrong is not permeated by the justice of God, and your faith is not resting in the power of God, and your</p><img src="https://s0.wp.com/i/blank.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b389752-00e9-4187-885a-ef888287faaa.jpg)
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg" /><h1>WORSHIP QUOTABLES</h1><p>If your heart is not amazed by the grace of God, and your mind is not gripped by the truth of God, and your sense of right and wrong is not permeated by the justice of God, and your faith is not resting in the power of God, and your</p></article>
