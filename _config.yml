@@ -1,4 +1,17 @@
-typography_spectrum: 0.3691756
+title: Music Ministry
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.6875
   brandStrength: 0.8125
@@ -10,39 +23,25 @@ color:
     - '#8cc63e'
     - '#959088'
   lightness: 0.625
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.3225806
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-author:
-  name: Rodney Gehman
-  email: rodneyg@graceb3.org
-  url: www.facebook.com/rjgehman
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/94625673-7ff7-4750-954a-2e8d82cbe4c0.jpg
-name: Grace Worship
 cta:
   bucket: null
   version: null
   domain: null
-navigation: []
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Music Ministry
-purpose: []
+name: Grace Worship
+author:
+  name: Rodney Gehman
+  email: rodneyg@graceb3.org
+  url: www.facebook.com/rjgehman
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/94625673-7ff7-4750-954a-2e8d82cbe4c0.jpg
+typography_spectrum: 0.3691756
+layout_spectrum: 0.7867383
