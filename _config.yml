@@ -37,9 +37,6 @@ navigation:
   - name: Facebook
     url: 'http://www.facebook.com/gracenorthliberty'
     type: external
-  - name: Team Night
-    id: 7397db00-b8ea-4fcb-b522-274293940fb2
-    type: content
 favicon: null
 collections:
   - index:
