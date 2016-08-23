@@ -4,7 +4,7 @@
         <description><![CDATA[Music Ministry]]></description>
         <link>https://thegrid.ai/graceworship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 20:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 20:52:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graceworship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Worship ]]></title>
@@ -26,13 +26,6 @@
             <link>http://www.twitter.com/graceworship</link>
             <guid isPermaLink="false">8af56cdf-7f3c-4d2d-9902-42a5b15d6520</guid>
             <pubDate>Tue, 23 Aug 2016 20:23:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WORSHIP QUOTABLES]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b389752-00e9-4187-885a-ef888287faaa.jpg">]]></description>
-            <link>https://worr.wordpress.com</link>
-            <guid isPermaLink="false">590bce93-fbe7-4504-9e46-07355fc91115</guid>
-            <pubDate>Fri, 22 Jul 2016 21:43:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
