@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T21:36:27.374Z'
+datePublished: '2016-08-23T21:40:30.381Z'
 sourcePath: _posts/2015-11-27-team-nights.md
 inFeed: false
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-23T21:36:26.970Z'
+dateModified: '2016-08-23T21:40:30.017Z'
 title: Team Night
 publisher: {}
 description: >-
