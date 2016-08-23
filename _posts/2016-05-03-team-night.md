@@ -9,15 +9,16 @@ description: >-
   These are specifically designed to bring a new level of friendship and team
   camaraderie among Praise Team members from both campuses as well as
   instruction in areas where we can grow together.
-datePublished: '2016-08-20T01:16:11.203Z'
-dateModified: '2016-06-20T23:19:40.741Z'
+datePublished: '2016-08-23T20:24:58.501Z'
+dateModified: '2016-08-23T20:24:58.156Z'
 sourcePath: _posts/2016-05-03-team-night.md
 author:
   - name: ''
     url: ''
 title: Team Night
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: team-night/index.html
 _type: WebPage
