@@ -40,6 +40,9 @@ navigation:
   - name: Team Night
     id: 4450ef07-f3e9-4346-aa32-ebafa0ad84f4
     type: content
+  - name: Sunday Set List Videos
+    id: 26c93d39-9fea-4daf-8fe7-c4cc4fc18ccc
+    type: content
 favicon: null
 collections:
   - index:
